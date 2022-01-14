@@ -5,6 +5,7 @@
     "scripts": {},
     "dependencies": {
         "style-dictionary": "^3.0.2",
+        "token-transformer": "^0.0.15",
         "yargs": "^17.3.1"
     }
 }
