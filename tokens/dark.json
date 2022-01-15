@@ -24,7 +24,6 @@
         }
       }
     },
-  
     "Heading 1": {
       "value": {
         "fontFamily": "Roboto",
@@ -37,6 +36,10 @@
         "textCase": "none"
       },
       "type": "typography"
+    },
+    "Roboto": {
+      "value": "Roboto",
+      "type": "fontFamilies"
     },
     "Inter": {
       "value": "Inter",
