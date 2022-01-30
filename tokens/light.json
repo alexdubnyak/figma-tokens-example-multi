@@ -148,37 +148,37 @@
   "checkbox": {
     "background": {
       "standard": {
-        "value": "#fff",
+        "value": "#ffffff",
         "type": "color"
       },
-      "standard-copy": {
-        "value": "#fff",
+      "hover": {
+        "value": "#f2f9fa",
         "type": "color"
       },
-      "standard-copy-copy": {
-        "value": "#fff",
+      "pressed": {
+        "value": "#e6f3f5",
         "type": "color"
       },
-      "standard-copy-copy-copy": {
-        "value": "#fff",
+      "disabled": {
+        "value": "#f9fafb",
         "type": "color"
       }
     },
     "stroke": {
       "standard": {
-        "value": "#fff",
+        "value": "#cce7ea",
         "type": "color"
       },
-      "standard-copy": {
-        "value": "#fff",
+      "hover": {
+        "value": "#99cfd5",
         "type": "color"
       },
-      "standard-copy-copy": {
-        "value": "#fff",
+      "pressed": {
+        "value": "#66b6c1",
         "type": "color"
       },
-      "standard-copy-copy-copy": {
-        "value": "#fff",
+      "disabled": {
+        "value": "#e5e7eb",
         "type": "color"
       }
     }

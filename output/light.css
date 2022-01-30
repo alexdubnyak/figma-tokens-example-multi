@@ -28,12 +28,12 @@
   --input-stroke-hover: #99cfd5;
   --input-stroke-pressed: #66b6c1;
   --input-stroke-disabled: #e5e7eb;
-  --checkbox-background-standard: #fff;
-  --checkbox-background-standard-copy: #fff;
-  --checkbox-background-standard-copy-copy: #fff;
-  --checkbox-background-standard-copy-copy-copy: #fff;
-  --checkbox-stroke-standard: #fff;
-  --checkbox-stroke-standard-copy: #fff;
-  --checkbox-stroke-standard-copy-copy: #fff;
-  --checkbox-stroke-standard-copy-copy-copy: #fff;
+  --checkbox-background-standard: #ffffff;
+  --checkbox-background-hover: #f2f9fa;
+  --checkbox-background-pressed: #e6f3f5;
+  --checkbox-background-disabled: #f9fafb;
+  --checkbox-stroke-standard: #cce7ea;
+  --checkbox-stroke-hover: #99cfd5;
+  --checkbox-stroke-pressed: #66b6c1;
+  --checkbox-stroke-disabled: #e5e7eb;
       }
