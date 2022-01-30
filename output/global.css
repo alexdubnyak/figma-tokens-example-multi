@@ -1,7 +1,11 @@
 .global-theme {
           --global-white: #ffffff;
   --global-black: #27303f;
-  --global-gray: #9fa6b2;
+  --global-gray-1: #f9fafb;
+  --global-gray-2: #f4f5f7;
+  --global-gray-3: #e5e7eb;
+  --global-gray-4: #d2d6dc;
+  --global-gray-5: #6b7280;
   --colors-brand-10: #f2f9fa;
   --colors-brand-20: #e6f3f5;
   --colors-brand-30: #cce7ea;
@@ -143,17 +147,17 @@
   --text-caption-xxs: [object Object];
   --text-caption-xs: [object Object];
   --text-caption-s: [object Object];
+  --text-label: [object Object];
+  --text-placeholder: [object Object];
+  --text-body-regular: [object Object];
+  --text-body-medium: [object Object];
+  --text-body-semibold: [object Object];
   --headline-h6: [object Object];
   --headline-h5: [object Object];
   --headline-h4: [object Object];
   --headline-h3: [object Object];
   --headline-h2: [object Object];
   --headline-h1: [object Object];
-  --text-label: [object Object];
-  --text-placeholder: [object Object];
-  --text-body-regular: [object Object];
-  --text-body-medium: [object Object];
-  --text-body-semibold: [object Object];
   --text-case-none: none;
   --text-decoration-none: none;
       }

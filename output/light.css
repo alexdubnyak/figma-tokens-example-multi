@@ -1,23 +1,17 @@
 .light-theme {
-          --theme-surface-modal: #fbfdfe;
-  --theme-surface-main: #ffffff;
-  --theme-text-main: #27303f;
-  --theme-controls-close-standard: #27303f;
-  --theme-heading-1: [object Object];
-  --theme-roboto: Roboto;
-  --theme-inter: Inter;
-  --theme-copy: [object Object];
-  --theme-stroke-dark: #27303f;
-  --theme-stroke-light: #9fa6b2;
-  --theme-s: [object Object];
-  --theme-button-background-primary-standard: #1992a1;
-  --theme-button-background-primary-hover: #4daab6;
-  --theme-button-background-primary-pressed: #05505c;
-  --theme-button-background-primary-disabled: #cce7ea;
-  --theme-button-background-secondary-standard: #ffffff;
-  --theme-button-background-secondary-hover: #e5e7eb;
-  --theme-button-background-secondary-pressed: #9fa6b2;
-  --theme-button-background-secondary-disabled: #e5e7eb;
-  --theme-button-big: 28;
-  --theme-s-caps: [object Object];
+          --surface-fg: #27303f;
+  --surface-bg: #ffffff;
+  --text-main: #27303f;
+  --controls-close-standard: #27303f;
+  --stroke-dark: #27303f;
+  --stroke-light: #6b7280;
+  --button-background-primary-standard: #1992a1;
+  --button-background-primary-hover: #4daab6;
+  --button-background-primary-pressed: #05505c;
+  --button-background-primary-disabled: #cce7ea;
+  --button-background-secondary-standard: #ffffff;
+  --button-background-secondary-hover: #e5e7eb;
+  --button-background-secondary-pressed: #9fa6b2;
+  --button-background-secondary-disabled: #e5e7eb;
+  --button-big: 4;
       }

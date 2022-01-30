@@ -1,142 +1,80 @@
 {
-  "theme": {
-    "surface": {
-      "modal": {
-        "value": "#fbfdfe",
-        "type": "color"
-      },
-      "main": {
-        "value": "#ffffff",
-        "type": "color"
-      }
+  "surface": {
+    "fg": {
+      "value": "#27303f",
+      "type": "color"
     },
-    "Text": {
-      "Main": {
+    "bg": {
+      "value": "#ffffff",
+      "type": "color"
+    }
+  },
+  "text": {
+    "main": {
+      "value": "#27303f",
+      "type": "color"
+    }
+  },
+  "controls": {
+    "close": {
+      "standard": {
         "value": "#27303f",
         "type": "color"
       }
+    }
+  },
+  "stroke": {
+    "dark": {
+      "value": "#27303f",
+      "type": "color"
     },
-    "Controls": {
-      "Close": {
-        "Standard": {
-          "value": "#27303f",
+    "light": {
+      "value": "#6b7280",
+      "type": "color"
+    }
+  },
+  "button": {
+    "background": {
+      "primary": {
+        "standard": {
+          "value": "#1992a1",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#4daab6",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#05505c",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#cce7ea",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "standard": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#e5e7eb",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#9fa6b2",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#e5e7eb",
           "type": "color"
         }
       }
     },
-    "Heading 1": {
-      "value": {
-        "fontFamily": "Roboto",
-        "fontWeight": "Regular",
-        "lineHeight": "AUTO",
-        "fontSize": 38,
-        "letterSpacing": "0%",
-        "paragraphSpacing": 0,
-        "textDecoration": "none",
-        "textCase": "none"
-      },
-      "type": "typography"
-    },
-    "Roboto": {
-      "value": "Roboto",
-      "type": "fontFamilies"
-    },
-    "Inter": {
-      "value": "Inter",
-      "type": "fontFamilies"
-    },
-    "Copy": {
-      "value": {
-        "fontFamily": "Roboto",
-        "fontWeight": "Regular",
-        "lineHeight": "180%",
-        "fontSize": 18,
-        "letterSpacing": "0%",
-        "paragraphSpacing": 0,
-        "textDecoration": "none",
-        "textCase": "none"
-      },
-      "type": "typography"
-    },
-    "Stroke": {
-      "Dark": {
-        "value": "#27303f",
-        "type": "color"
-      },
-      "Light": {
-        "value": "#9fa6b2",
-        "type": "color"
-      }
-    },
-    "s": {
-      "value": {
-        "fontFamily": "Roboto",
-        "fontWeight": "Regular",
-        "lineHeight": "150%",
-        "fontSize": 14,
-        "letterSpacing": "0%",
-        "paragraphSpacing": 0,
-        "textDecoration": "none",
-        "textCase": "none"
-      },
-      "type": "typography"
-    },
-    "button": {
-      "background": {
-        "primary": {
-          "standard": {
-            "value": "#1992a1",
-            "type": "color"
-          },
-          "hover": {
-            "value": "#4daab6",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "#05505c",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "#cce7ea",
-            "type": "color"
-          }
-        },
-        "secondary": {
-          "standard": {
-            "value": "#ffffff",
-            "type": "color"
-          },
-          "hover": {
-            "value": "#e5e7eb",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "#9fa6b2",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "#e5e7eb",
-            "type": "color"
-          }
-        }
-      },
-      "big": {
-        "value": 28,
-        "type": "borderRadius"
-      }
-    },
-    "s caps": {
-      "value": {
-        "fontFamily": "Inter",
-        "fontWeight": "Medium",
-        "lineHeight": "AUTO",
-        "fontSize": 14,
-        "letterSpacing": "0%",
-        "paragraphSpacing": 0,
-        "textDecoration": "none",
-        "textCase": "uppercase"
-      },
-      "type": "typography"
+    "big": {
+      "value": 4,
+      "type": "borderRadius"
     }
   }
 }
