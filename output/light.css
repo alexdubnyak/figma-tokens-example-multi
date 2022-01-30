@@ -20,12 +20,12 @@
   --tab-main-hover: #1992a1;
   --tab-main-pressed: #05505c;
   --tab-main-disabled: #6b7280;
-  --input-background-standard: #f2f9fa;
+  --input-background-standard: #ffffff;
   --input-background-hover: #cce7ea;
   --input-background-pressed: #b3dbe0;
   --input-background-disabled: #f9fafb;
   --input-stroke-standard: #cce7ea;
   --input-stroke-hover: #99cfd5;
   --input-stroke-pressed: #66b6c1;
-  --input-stroke-disabled: #f9fafb;
+  --input-stroke-disabled: #e5e7eb;
       }
