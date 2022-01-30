@@ -3,19 +3,11 @@
     "default": {
       "value": "#27303f",
       "type": "color"
-    },
-    "muted": {
-      "value": "#6b7280",
-      "type": "color"
     }
   },
   "bg": {
     "default": {
       "value": "#ffffff",
-      "type": "color"
-    },
-    "muted": {
-      "value": "#f9fafb",
       "type": "color"
     }
   },
@@ -87,22 +79,22 @@
       "type": "borderRadius"
     }
   },
-  "tab": {
-    "main": {
+  "input": {
+    "background": {
       "standard": {
-        "value": "#27303f",
+        "value": "#f2f9fa",
         "type": "color"
       },
       "hover": {
-        "value": "#1992a1",
+        "value": "#e6f3f5",
         "type": "color"
       },
       "pressed": {
-        "value": "#05505c",
+        "value": "#b3dbe0",
         "type": "color"
       },
-      "disabled": {
-        "value": "#6b7280",
+      "standard-copy-copy-copy": {
+        "value": "#f2f9fa",
         "type": "color"
       }
     }
