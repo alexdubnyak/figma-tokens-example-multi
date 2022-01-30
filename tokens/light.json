@@ -1,11 +1,21 @@
 {
-  "surface": {
-    "fg": {
+  "fg": {
+    "default": {
       "value": "#27303f",
       "type": "color"
     },
-    "bg": {
+    "muted": {
+      "value": "#6b7280",
+      "type": "color"
+    }
+  },
+  "bg": {
+    "default": {
       "value": "#ffffff",
+      "type": "color"
+    },
+    "muted": {
+      "value": "#f9fafb",
       "type": "color"
     }
   },
@@ -75,6 +85,26 @@
     "big": {
       "value": 4,
       "type": "borderRadius"
+    }
+  },
+  "tab": {
+    "main": {
+      "standard": {
+        "value": "#27303f",
+        "type": "color"
+      },
+      "hover": {
+        "value": "#1992a1",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "#05505c",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#6b7280",
+        "type": "color"
+      }
     }
   }
 }
