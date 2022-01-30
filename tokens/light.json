@@ -110,7 +110,7 @@
   "input": {
     "background": {
       "standard": {
-        "value": "bg.default",
+        "value": "#f2f9fa",
         "type": "color"
       },
       "hover": {
@@ -128,19 +128,19 @@
     },
     "stroke": {
       "standard": {
-        "value": "#cce7ea",
+        "value": "#fff",
         "type": "color"
       },
-      "hover": {
-        "value": "#99cfd5",
+      "standard-copy": {
+        "value": "#fff",
         "type": "color"
       },
-      "pressed": {
-        "value": "#66b6c1",
+      "standard-copy-copy": {
+        "value": "#fff",
         "type": "color"
       },
-      "disabled": {
-        "value": "#f9fafb",
+      "standard-copy-copy-copy": {
+        "value": "#fff",
         "type": "color"
       }
     }
