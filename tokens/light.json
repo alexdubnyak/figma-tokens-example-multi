@@ -128,19 +128,19 @@
     },
     "stroke": {
       "standard": {
-        "value": "#fff",
+        "value": "#cce7ea",
         "type": "color"
       },
       "standard-copy": {
-        "value": "#fff",
+        "value": "#99cfd5",
         "type": "color"
       },
       "standard-copy-copy": {
-        "value": "#fff",
+        "value": "#66b6c1",
         "type": "color"
       },
       "standard-copy-copy-copy": {
-        "value": "#fff",
+        "value": "#f9fafb",
         "type": "color"
       }
     }

@@ -24,8 +24,8 @@
   --input-background-hover: #cce7ea;
   --input-background-pressed: #b3dbe0;
   --input-background-disabled: #f9fafb;
-  --input-stroke-standard: #fff;
-  --input-stroke-standard-copy: #fff;
-  --input-stroke-standard-copy-copy: #fff;
-  --input-stroke-standard-copy-copy-copy: #fff;
+  --input-stroke-standard: #cce7ea;
+  --input-stroke-standard-copy: #99cfd5;
+  --input-stroke-standard-copy-copy: #66b6c1;
+  --input-stroke-standard-copy-copy-copy: #f9fafb;
       }
