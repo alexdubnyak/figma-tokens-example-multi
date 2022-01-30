@@ -15,7 +15,7 @@
   --button-background-secondary-hover: #e5e7eb;
   --button-background-secondary-pressed: #9fa6b2;
   --button-background-secondary-disabled: #e5e7eb;
-  --button-big: 4;
+  --button-border-radius: 4;
   --tab-main-standard: #27303f;
   --tab-main-hover: #1992a1;
   --tab-main-pressed: #05505c;
@@ -28,4 +28,5 @@
   --input-stroke-hover: #99cfd5;
   --input-stroke-pressed: #66b6c1;
   --input-stroke-disabled: #e5e7eb;
+  --input-border-radius: 4;
       }

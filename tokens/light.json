@@ -82,7 +82,7 @@
         }
       }
     },
-    "big": {
+    "border-radius": {
       "value": 4,
       "type": "borderRadius"
     }
@@ -143,6 +143,10 @@
         "value": "#e5e7eb",
         "type": "color"
       }
+    },
+    "border-radius": {
+      "value": 4,
+      "type": "borderRadius"
     }
   }
 }
