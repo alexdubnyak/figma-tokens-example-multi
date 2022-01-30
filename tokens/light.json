@@ -110,7 +110,19 @@
   "input": {
     "background": {
       "standard": {
-        "value": "#fff",
+        "value": "#f2f9fa",
+        "type": "color"
+      },
+      "hover": {
+        "value": "#cce7ea",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "#99cfd5",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#f9fafb",
         "type": "color"
       }
     }
