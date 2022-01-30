@@ -81,11 +81,11 @@
           "type": "color"
         }
       }
-    },
-    "border-radius": {
-      "value": 4,
-      "type": "borderRadius"
     }
+  },
+  "s": {
+    "value": 4,
+    "type": "borderRadius"
   },
   "tab": {
     "main": {
@@ -143,10 +143,6 @@
         "value": "#e5e7eb",
         "type": "color"
       }
-    },
-    "border-radius": {
-      "value": 4,
-      "type": "borderRadius"
     }
   }
 }
