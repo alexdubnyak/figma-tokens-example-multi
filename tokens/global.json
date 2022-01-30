@@ -8,6 +8,14 @@
       "value": "#27303f",
       "type": "color"
     },
+    "success": {
+      "value": "#0e9f6e",
+      "type": "color"
+    },
+    "error": {
+      "value": "#d03801",
+      "type": "color"
+    },
     "gray": {
       "1": {
         "value": "#f9fafb",

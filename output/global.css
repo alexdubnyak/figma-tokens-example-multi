@@ -1,6 +1,8 @@
 .global-theme {
           --global-white: #ffffff;
   --global-black: #27303f;
+  --global-success: #0e9f6e;
+  --global-error: #d03801;
   --global-gray-1: #f9fafb;
   --global-gray-2: #f4f5f7;
   --global-gray-3: #e5e7eb;
