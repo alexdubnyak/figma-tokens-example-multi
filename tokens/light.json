@@ -162,6 +162,18 @@
       "disabled": {
         "value": "#f9fafb",
         "type": "color"
+      },
+      "checked": {
+        "value": "#1992a1",
+        "type": "color"
+      },
+      "checked-hover": {
+        "value": "#66b6c1",
+        "type": "color"
+      },
+      "checked-disabled": {
+        "value": "#e5e7eb",
+        "type": "color"
       }
     },
     "stroke": {
