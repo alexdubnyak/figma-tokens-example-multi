@@ -39,4 +39,6 @@
   --checkbox-stroke-hover: #99cfd5;
   --checkbox-stroke-pressed: #66b6c1;
   --checkbox-stroke-disabled: #e5e7eb;
+  --xs: 2;
+  --xl: 32;
       }

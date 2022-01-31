@@ -194,5 +194,13 @@
         "type": "color"
       }
     }
+  },
+  "xs": {
+    "value": 2,
+    "type": "borderRadius"
+  },
+  "xl": {
+    "value": 32,
+    "type": "borderRadius"
   }
 }
