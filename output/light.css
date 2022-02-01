@@ -39,6 +39,17 @@
   --checkbox-stroke-hover: #99cfd5;
   --checkbox-stroke-pressed: #66b6c1;
   --checkbox-stroke-disabled: #e5e7eb;
+  --radiobutton-background-standard: #ffffff;
+  --radiobutton-background-hover: #f2f9fa;
+  --radiobutton-background-pressed: #e6f3f5;
+  --radiobutton-background-disabled: #f9fafb;
+  --radiobutton-background-checked: #1992a1;
+  --radiobutton-background-checked-hover: #66b6c1;
+  --radiobutton-background-checked-disabled: #e5e7eb;
+  --radiobutton-stroke-standard: #cce7ea;
+  --radiobutton-stroke-hover: #99cfd5;
+  --radiobutton-stroke-pressed: #66b6c1;
+  --radiobutton-stroke-disabled: #e5e7eb;
   --xs: 2;
   --xl: 32;
       }

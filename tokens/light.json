@@ -195,6 +195,56 @@
       }
     }
   },
+  "radiobutton": {
+    "background": {
+      "standard": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "hover": {
+        "value": "#f2f9fa",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "#e6f3f5",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#f9fafb",
+        "type": "color"
+      },
+      "checked": {
+        "value": "#1992a1",
+        "type": "color"
+      },
+      "checked-hover": {
+        "value": "#66b6c1",
+        "type": "color"
+      },
+      "checked-disabled": {
+        "value": "#e5e7eb",
+        "type": "color"
+      }
+    },
+    "stroke": {
+      "standard": {
+        "value": "#cce7ea",
+        "type": "color"
+      },
+      "hover": {
+        "value": "#99cfd5",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "#66b6c1",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#e5e7eb",
+        "type": "color"
+      }
+    }
+  },
   "xs": {
     "value": 2,
     "type": "borderRadius"
