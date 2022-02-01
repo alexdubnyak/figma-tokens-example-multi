@@ -242,6 +242,10 @@
       "disabled": {
         "value": "#e5e7eb",
         "type": "color"
+      },
+      "disabled-copy": {
+        "value": "#e5e7eb",
+        "type": "color"
       }
     }
   },
