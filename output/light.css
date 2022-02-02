@@ -28,6 +28,14 @@
   --input-stroke-hover: #99cfd5;
   --input-stroke-pressed: #66b6c1;
   --input-stroke-disabled: #e5e7eb;
+  --dropdown-background-standard: #ffffff;
+  --dropdown-background-hover: #f2f9fa;
+  --dropdown-background-pressed: #e6f3f5;
+  --dropdown-background-disabled: #f9fafb;
+  --dropdown-stroke-standard: #cce7ea;
+  --dropdown-stroke-hover: #99cfd5;
+  --dropdown-stroke-pressed: #66b6c1;
+  --dropdown-stroke-disabled: #e5e7eb;
   --checkbox-background-standard: #ffffff;
   --checkbox-background-hover: #f2f9fa;
   --checkbox-background-pressed: #e6f3f5;
