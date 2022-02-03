@@ -83,7 +83,7 @@
       },
       "selector": {
         "standard": {
-          "value": "#f4f5f7",
+          "value": "#ffffff",
           "type": "color"
         },
         "hover": {
