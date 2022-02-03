@@ -87,11 +87,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "#e5e7eb",
+          "value": "#cce7ea",
           "type": "color"
         },
         "pressed": {
-          "value": "#9fa6b2",
+          "value": "#b3dbe0",
           "type": "color"
         },
         "disabled": {
