@@ -80,6 +80,42 @@
           "value": "#e5e7eb",
           "type": "color"
         }
+      },
+      "selector-up": {
+        "standard": {
+          "value": "#1992a1",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#4daab6",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#05505c",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#cce7ea",
+          "type": "color"
+        }
+      },
+      "selector-down": {
+        "standard": {
+          "value": "#1992a1",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#4daab6",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#05505c",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#cce7ea",
+          "type": "color"
+        }
       }
     }
   },
