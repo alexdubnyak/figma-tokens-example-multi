@@ -580,39 +580,39 @@
     }
   },
   "fontSize": {
-    "0": {
+    "11": {
       "value": 11,
       "type": "fontSizes"
     },
-    "1": {
+    "12": {
       "value": 12,
       "type": "fontSizes"
     },
-    "2": {
+    "14": {
       "value": 14,
       "type": "fontSizes"
     },
-    "3": {
+    "16": {
       "value": 16,
       "type": "fontSizes"
     },
-    "4": {
+    "18": {
       "value": 18,
       "type": "fontSizes"
     },
-    "5": {
+    "20": {
       "value": 20,
       "type": "fontSizes"
     },
-    "6": {
+    "22": {
       "value": 22,
       "type": "fontSizes"
     },
-    "7": {
+    "25": {
       "value": 25,
       "type": "fontSizes"
     },
-    "8": {
+    "28": {
       "value": 28,
       "type": "fontSizes"
     }
