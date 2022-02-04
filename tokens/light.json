@@ -20,8 +20,12 @@
     }
   },
   "text": {
-    "main": {
+    "dark": {
       "value": "#27303f",
+      "type": "color"
+    },
+    "dark-copy": {
+      "value": "#ffffff",
       "type": "color"
     }
   },

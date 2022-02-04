@@ -3,7 +3,8 @@
   --fg-muted: #6b7280;
   --bg-default: #ffffff;
   --bg-muted: #f9fafb;
-  --text-main: #27303f;
+  --text-dark: #27303f;
+  --text-dark-copy: #ffffff;
   --controls-close-standard: #27303f;
   --stroke-dark: #27303f;
   --stroke-light: #d2d6dc;
