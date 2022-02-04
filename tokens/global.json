@@ -803,9 +803,7 @@
           },
           "type": "typography"
         }
-      }
-    },
-    "body": {
+      },
       "medium": {
         "11px": {
           "value": {
