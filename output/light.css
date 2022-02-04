@@ -20,10 +20,14 @@
   --button-background-selector-pressed: #b3dbe0;
   --button-background-selector-disabled: #e5e7eb;
   --s: 4;
-  --tab-main-standard: #27303f;
-  --tab-main-hover: #1992a1;
-  --tab-main-pressed: #05505c;
-  --tab-main-disabled: #6b7280;
+  --tab-blank-active-standard: #27303f;
+  --tab-blank-active-hover: #1992a1;
+  --tab-blank-active-pressed: #05505c;
+  --tab-blank-active-disabled: #6b7280;
+  --tab-blank-unactive-standard: #6b7280;
+  --tab-blank-unactive-hover: #1992a1;
+  --tab-blank-unactive-pressed: #05505c;
+  --tab-blank-unactive-disabled: #6b7280;
   --input-background-standard: #ffffff;
   --input-background-hover: #f2f9fa;
   --input-background-pressed: #e6f3f5;

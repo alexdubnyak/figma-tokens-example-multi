@@ -106,22 +106,42 @@
     "type": "borderRadius"
   },
   "tab": {
-    "main": {
-      "standard": {
-        "value": "#27303f",
-        "type": "color"
+    "blank": {
+      "active": {
+        "standard": {
+          "value": "#27303f",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#1992a1",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#05505c",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#6b7280",
+          "type": "color"
+        }
       },
-      "hover": {
-        "value": "#1992a1",
-        "type": "color"
-      },
-      "pressed": {
-        "value": "#05505c",
-        "type": "color"
-      },
-      "disabled": {
-        "value": "#6b7280",
-        "type": "color"
+      "unactive": {
+        "standard": {
+          "value": "#6b7280",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#1992a1",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#05505c",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#6b7280",
+          "type": "color"
+        }
       }
     }
   },
