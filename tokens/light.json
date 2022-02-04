@@ -5,7 +5,11 @@
       "type": "color"
     },
     "muted": {
-      "value": "#6b7280",
+      "value": "#9fa6b2",
+      "type": "color"
+    },
+    "accent": {
+      "value": "#008697",
       "type": "color"
     }
   },
@@ -45,25 +49,25 @@
           "type": "color"
         },
         "disabled": {
-          "value": "#6b7280",
+          "value": "#9fa6b2",
           "type": "color"
         }
       },
       "on-white": {
         "standard": {
-          "value": "#e5e7eb",
+          "value": "#9fa6b2",
           "type": "color"
         },
-        "standard-copy": {
-          "value": "#e5e7eb",
+        "hover": {
+          "value": "#6b7280",
           "type": "color"
         },
-        "standard-copy-copy": {
-          "value": "#e5e7eb",
+        "pressed": {
+          "value": "#4b5563",
           "type": "color"
         },
-        "standard-copy-copy-copy": {
-          "value": "#e5e7eb",
+        "disabled": {
+          "value": "#d2d6dc",
           "type": "color"
         }
       }
@@ -161,13 +165,13 @@
           "type": "color"
         },
         "disabled": {
-          "value": "#6b7280",
+          "value": "#9fa6b2",
           "type": "color"
         }
       },
       "unactive": {
         "standard": {
-          "value": "#6b7280",
+          "value": "#9fa6b2",
           "type": "color"
         },
         "hover": {
@@ -179,7 +183,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "#6b7280",
+          "value": "#9fa6b2",
           "type": "color"
         }
       }
@@ -199,13 +203,13 @@
           "type": "color"
         },
         "disabled": {
-          "value": "#6b7280",
+          "value": "#9fa6b2",
           "type": "color"
         }
       },
       "unactive": {
         "standard": {
-          "value": "#6b7280",
+          "value": "#9fa6b2",
           "type": "color"
         },
         "hover": {
@@ -217,7 +221,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "#6b7280",
+          "value": "#9fa6b2",
           "type": "color"
         }
       }
@@ -237,13 +241,13 @@
           "type": "color"
         },
         "disabled": {
-          "value": "#6b7280",
+          "value": "#9fa6b2",
           "type": "color"
         }
       },
       "unactive": {
         "standard": {
-          "value": "#6b7280",
+          "value": "#9fa6b2",
           "type": "color"
         },
         "hover": {
@@ -255,7 +259,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "#6b7280",
+          "value": "#9fa6b2",
           "type": "color"
         }
       }

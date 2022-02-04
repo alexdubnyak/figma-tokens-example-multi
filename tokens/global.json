@@ -34,7 +34,15 @@
         "type": "color"
       },
       "5": {
+        "value": "#9fa6b2",
+        "type": "color"
+      },
+      "6": {
         "value": "#6b7280",
+        "type": "color"
+      },
+      "7": {
+        "value": "#4b5563",
         "type": "color"
       }
     }
