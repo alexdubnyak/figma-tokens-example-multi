@@ -191,7 +191,7 @@
     "filled": {
       "active": {
         "standard": {
-          "value": "#27303f",
+          "value": "#339eac",
           "type": "color"
         },
         "hover": {
@@ -199,29 +199,29 @@
           "type": "color"
         },
         "pressed": {
-          "value": "#05505c",
+          "value": "#005e6a",
           "type": "color"
         },
         "disabled": {
-          "value": "#9fa6b2",
+          "value": "#d2d6dc",
           "type": "color"
         }
       },
       "unactive": {
         "standard": {
-          "value": "#9fa6b2",
+          "value": "#ffffff",
           "type": "color"
         },
         "hover": {
-          "value": "#008697",
+          "value": "#f4f5f7",
           "type": "color"
         },
         "pressed": {
-          "value": "#05505c",
+          "value": "#d2d6dc",
           "type": "color"
         },
         "disabled": {
-          "value": "#9fa6b2",
+          "value": "#f9fafb",
           "type": "color"
         }
       }
