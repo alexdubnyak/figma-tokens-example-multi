@@ -41,6 +41,10 @@
     "light": {
       "value": "#d2d6dc",
       "type": "color"
+    },
+    "accent": {
+      "value": "#1992a1",
+      "type": "color"
     }
   },
   "button": {
