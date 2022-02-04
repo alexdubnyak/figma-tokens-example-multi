@@ -31,9 +31,11 @@
   },
   "controls": {
     "close": {
-      "standard": {
-        "value": "#27303f",
-        "type": "color"
+      "on-black": {
+        "standard": {
+          "value": "#27303f",
+          "type": "color"
+        }
       }
     }
   },
