@@ -24,7 +24,7 @@
       "value": "#27303f",
       "type": "color"
     },
-    "dark-copy": {
+    "white": {
       "value": "#ffffff",
       "type": "color"
     }
@@ -33,7 +33,37 @@
     "close": {
       "on-black": {
         "standard": {
-          "value": "#27303f",
+          "value": "#007988",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#80c3cb",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#6b7280",
+          "type": "color"
+        }
+      },
+      "on-white": {
+        "standard": {
+          "value": "#e5e7eb",
+          "type": "color"
+        },
+        "standard-copy": {
+          "value": "#e5e7eb",
+          "type": "color"
+        },
+        "standard-copy-copy": {
+          "value": "#e5e7eb",
+          "type": "color"
+        },
+        "standard-copy-copy-copy": {
+          "value": "#e5e7eb",
           "type": "color"
         }
       }

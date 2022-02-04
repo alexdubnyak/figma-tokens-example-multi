@@ -4,8 +4,15 @@
   --bg-default: #ffffff;
   --bg-muted: #f9fafb;
   --text-dark: #27303f;
-  --text-dark-copy: #ffffff;
-  --controls-close-on-black-standard: #27303f;
+  --text-white: #ffffff;
+  --controls-close-on-black-standard: #007988;
+  --controls-close-on-black-hover: #ffffff;
+  --controls-close-on-black-pressed: #80c3cb;
+  --controls-close-on-black-disabled: #6b7280;
+  --controls-close-on-white-standard: #e5e7eb;
+  --controls-close-on-white-standard-copy: #e5e7eb;
+  --controls-close-on-white-standard-copy-copy: #e5e7eb;
+  --controls-close-on-white-standard-copy-copy-copy: #e5e7eb;
   --stroke-dark: #27303f;
   --stroke-light: #d2d6dc;
   --stroke-accent: #008697;
