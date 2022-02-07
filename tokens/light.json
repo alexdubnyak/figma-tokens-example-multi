@@ -142,6 +142,24 @@
           "value": "#e5e7eb",
           "type": "color"
         }
+      },
+      "collapse": {
+        "standard": {
+          "value": "#364152",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#64748b",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#1a202e",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#cfd8e3",
+          "type": "color"
+        }
       }
     }
   },

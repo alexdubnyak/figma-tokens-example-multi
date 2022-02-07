@@ -29,6 +29,10 @@
   --button-background-selector-hover: #b3dbe0;
   --button-background-selector-pressed: #99cfd5;
   --button-background-selector-disabled: #e5e7eb;
+  --button-background-collapse-standard: #364152;
+  --button-background-collapse-hover: #64748b;
+  --button-background-collapse-pressed: #1a202e;
+  --button-background-collapse-disabled: #cfd8e3;
   --s: 4;
   --tab-blank-active-standard: #27303f;
   --tab-blank-active-hover: #008697;
