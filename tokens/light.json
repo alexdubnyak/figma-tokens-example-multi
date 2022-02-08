@@ -199,6 +199,10 @@
     "value": 6,
     "type": "borderRadius"
   },
+  "large": {
+    "value": 8,
+    "type": "borderRadius"
+  },
   "tab": {
     "blank": {
       "active": {
