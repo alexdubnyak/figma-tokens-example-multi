@@ -227,11 +227,11 @@
       },
       "unactive": {
         "standard": {
-          "value": "#ffffff",
+          "value": "#f4f5f7",
           "type": "color"
         },
         "hover": {
-          "value": "#f4f5f7",
+          "value": "#e5e7eb",
           "type": "color"
         },
         "pressed": {
