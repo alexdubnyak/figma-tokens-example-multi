@@ -416,15 +416,15 @@
     },
     "stroke": {
       "standard": {
-        "value": "#80c3cb",
+        "value": "#008697",
         "type": "color"
       },
       "hover": {
-        "value": "#80c3cb",
+        "value": "#008697",
         "type": "color"
       },
       "pressed": {
-        "value": "#4daab6",
+        "value": "#006b79",
         "type": "color"
       },
       "disabled": {

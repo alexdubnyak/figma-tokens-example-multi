@@ -86,9 +86,9 @@
   --checkbox-background-checked: #008697;
   --checkbox-background-checked-hover: #4daab6;
   --checkbox-background-checked-disabled: #e2e8f0;
-  --checkbox-stroke-standard: #80c3cb;
-  --checkbox-stroke-hover: #80c3cb;
-  --checkbox-stroke-pressed: #4daab6;
+  --checkbox-stroke-standard: #008697;
+  --checkbox-stroke-hover: #008697;
+  --checkbox-stroke-pressed: #006b79;
   --checkbox-stroke-disabled: #e2e8f0;
   --radiobutton-background-standard: #ffffff;
   --radiobutton-background-hover: #e6f3f5;
