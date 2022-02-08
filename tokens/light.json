@@ -37,7 +37,7 @@
     "close": {
       "on-black": {
         "standard": {
-          "value": "#006b79",
+          "value": "#00505b",
           "type": "color"
         },
         "hover": {
