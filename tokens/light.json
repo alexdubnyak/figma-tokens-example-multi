@@ -21,6 +21,10 @@
     "muted": {
       "value": "#fbfdfe",
       "type": "color"
+    },
+    "accent": {
+      "value": "#008697",
+      "type": "color"
     }
   },
   "text": {
