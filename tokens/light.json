@@ -22,6 +22,10 @@
       "value": "#fbfdfe",
       "type": "color"
     },
+    "gray": {
+      "value": "#f1f5f9",
+      "type": "color"
+    },
     "accent": {
       "value": "#008697",
       "type": "color"
@@ -189,6 +193,10 @@
   },
   "s": {
     "value": 4,
+    "type": "borderRadius"
+  },
+  "medium": {
+    "value": 6,
     "type": "borderRadius"
   },
   "tab": {

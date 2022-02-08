@@ -4,6 +4,7 @@
   --fg-accent: #008697;
   --bg-default: #ffffff;
   --bg-muted: #fbfdfe;
+  --bg-gray: #f1f5f9;
   --bg-accent: #008697;
   --text-dark: #27303f;
   --text-white: #ffffff;
@@ -39,6 +40,7 @@
   --button-background-collapse-vertical-pressed: #cfd8e3;
   --button-background-collapse-vertical-disabled: #f1f5f9;
   --s: 4;
+  --medium: 6;
   --tab-blank-active-standard: #27303f;
   --tab-blank-active-hover: #008697;
   --tab-blank-active-pressed: #05505c;
