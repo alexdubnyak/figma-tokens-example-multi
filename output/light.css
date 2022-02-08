@@ -6,7 +6,7 @@
   --bg-muted: #fbfdfe;
   --text-dark: #27303f;
   --text-white: #ffffff;
-  --controls-close-on-black-standard: #007988;
+  --controls-close-on-black-standard: #006b79;
   --controls-close-on-black-hover: #ffffff;
   --controls-close-on-black-pressed: #80c3cb;
   --controls-close-on-black-disabled: #97a6ba;
@@ -33,9 +33,9 @@
   --button-background-collapse-horizontal-hover: #cfd8e3;
   --button-background-collapse-horizontal-pressed: #475569;
   --button-background-collapse-horizontal-disabled: #e2e8f0;
-  --button-background-collapse-vertical-standard: #cfd8e3;
-  --button-background-collapse-vertical-hover: #97a6ba;
-  --button-background-collapse-vertical-pressed: #64748b;
+  --button-background-collapse-vertical-standard: #f1f5f9;
+  --button-background-collapse-vertical-hover: #e2e8f0;
+  --button-background-collapse-vertical-pressed: #cfd8e3;
   --button-background-collapse-vertical-disabled: #f1f5f9;
   --s: 4;
   --tab-blank-active-standard: #27303f;

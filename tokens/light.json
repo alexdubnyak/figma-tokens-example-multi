@@ -37,7 +37,7 @@
     "close": {
       "on-black": {
         "standard": {
-          "value": "#007988",
+          "value": "#006b79",
           "type": "color"
         },
         "hover": {
@@ -164,15 +164,15 @@
         },
         "vertical": {
           "standard": {
-            "value": "#cfd8e3",
+            "value": "#f1f5f9",
             "type": "color"
           },
           "hover": {
-            "value": "#97a6ba",
+            "value": "#e2e8f0",
             "type": "color"
           },
           "pressed": {
-            "value": "#64748b",
+            "value": "#cfd8e3",
             "type": "color"
           },
           "disabled": {
