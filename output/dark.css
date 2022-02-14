@@ -1,15 +1,15 @@
 .dark-theme {
-          --fg-default: #27303f;
+          --fg-default: #ffffff;
   --fg-muted: #97a6ba;
   --fg-accent: #008697;
-  --bg-default: #ffffff;
+  --bg-default: #27303f;
   --bg-muted: #fbfdfe;
-  --bg-gray: #f1f5f9;
+  --bg-gray: #475569;
   --bg-accent: #008697;
-  --text-dark: #27303f;
-  --text-white: #ffffff;
+  --text-dark: #ffffff;
+  --text-white: #27303f;
   --controls-close-on-black-standard: #00505b;
-  --controls-close-on-black-hover: #ffffff;
+  --controls-close-on-black-hover: #27303f;
   --controls-close-on-black-pressed: #80c3cb;
   --controls-close-on-black-disabled: #97a6ba;
   --controls-close-on-white-standard: #97a6ba;
@@ -27,7 +27,7 @@
   --button-background-secondary-hover: #e5e7eb;
   --button-background-secondary-pressed: #d2d6dc;
   --button-background-secondary-disabled: #e5e7eb;
-  --button-background-selector-standard: #ffffff00;
+  --button-background-selector-standard: #27303f00;
   --button-background-selector-hover: #b3dbe0;
   --button-background-selector-pressed: #99cfd5;
   --button-background-selector-disabled: #e5e7eb;
@@ -42,7 +42,7 @@
   --s: 4;
   --medium: 6;
   --large: 8;
-  --tab-blank-active-standard: #27303f;
+  --tab-blank-active-standard: #ffffff;
   --tab-blank-active-hover: #008697;
   --tab-blank-active-pressed: #05505c;
   --tab-blank-active-disabled: #97a6ba;
@@ -58,7 +58,7 @@
   --tab-filled-unactive-hover: #e2e8f0;
   --tab-filled-unactive-pressed: #cfd8e3;
   --tab-filled-unactive-disabled: #fbfdfe;
-  --tab-outlined-active-standard: #27303f;
+  --tab-outlined-active-standard: #ffffff;
   --tab-outlined-active-hover: #008697;
   --tab-outlined-active-pressed: #05505c;
   --tab-outlined-active-disabled: #97a6ba;
@@ -66,7 +66,7 @@
   --tab-outlined-unactive-hover: #008697;
   --tab-outlined-unactive-pressed: #05505c;
   --tab-outlined-unactive-disabled: #97a6ba;
-  --input-background-standard: #ffffff;
+  --input-background-standard: #27303f;
   --input-background-hover: #e6f3f5;
   --input-background-pressed: #cce7ea;
   --input-background-disabled: #fbfdfe;
@@ -74,7 +74,7 @@
   --input-stroke-hover: #80c3cb;
   --input-stroke-pressed: #4daab6;
   --input-stroke-disabled: #e2e8f0;
-  --dropdown-background-standard: #ffffff;
+  --dropdown-background-standard: #27303f;
   --dropdown-background-hover: #e6f3f5;
   --dropdown-background-pressed: #cce7ea;
   --dropdown-background-disabled: #fbfdfe;
@@ -82,7 +82,7 @@
   --dropdown-stroke-hover: #80c3cb;
   --dropdown-stroke-pressed: #4daab6;
   --dropdown-stroke-disabled: #e2e8f0;
-  --checkbox-background-standard: #ffffff;
+  --checkbox-background-standard: #27303f;
   --checkbox-background-hover: #e6f3f5;
   --checkbox-background-pressed: #cce7ea;
   --checkbox-background-disabled: #fbfdfe;
@@ -93,7 +93,7 @@
   --checkbox-stroke-hover: #008697;
   --checkbox-stroke-pressed: #006b79;
   --checkbox-stroke-disabled: #e2e8f0;
-  --radiobutton-background-standard: #ffffff;
+  --radiobutton-background-standard: #27303f;
   --radiobutton-background-hover: #e6f3f5;
   --radiobutton-background-pressed: #cce7ea;
   --radiobutton-background-disabled: #fbfdfe;
