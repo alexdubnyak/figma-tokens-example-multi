@@ -54,9 +54,9 @@
   --tab-filled-active-hover: #008697;
   --tab-filled-active-pressed: #005e6a;
   --tab-filled-active-disabled: #97a6ba;
-  --tab-filled-unactive-standard: #f1f5f9;
-  --tab-filled-unactive-hover: #e2e8f0;
-  --tab-filled-unactive-pressed: #cfd8e3;
+  --tab-filled-unactive-standard: #97a6ba;
+  --tab-filled-unactive-hover: #64748b;
+  --tab-filled-unactive-pressed: #475569;
   --tab-filled-unactive-disabled: #fbfdfe;
   --tab-outlined-active-standard: #ffffff;
   --tab-outlined-active-hover: #008697;
@@ -74,7 +74,7 @@
   --input-stroke-hover: #80c3cb;
   --input-stroke-pressed: #4daab6;
   --input-stroke-disabled: #e2e8f0;
-  --dropdown-background-standard: #27303f;
+  --dropdown-background-standard: #475569;
   --dropdown-background-hover: #e6f3f5;
   --dropdown-background-pressed: #cce7ea;
   --dropdown-background-disabled: #fbfdfe;
