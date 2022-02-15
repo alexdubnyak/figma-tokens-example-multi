@@ -19,6 +19,10 @@
     "on-light": {
       "value": "#27303f",
       "type": "color"
+    },
+    "gray": {
+      "value": "#475569",
+      "type": "color"
     }
   },
   "bg": {
