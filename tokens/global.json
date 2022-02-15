@@ -586,11 +586,11 @@
     "type": "borderRadius"
   },
   "fontFamilies": {
-    "inter": {
+    "base": {
       "value": "Inter",
       "type": "fontFamilies"
     },
-    "montserrat": {
+    "headline": {
       "value": "Montserrat",
       "type": "fontFamilies"
     }
