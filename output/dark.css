@@ -56,8 +56,8 @@
   --tab-filled-active-hover: #008697;
   --tab-filled-active-pressed: #005e6a;
   --tab-filled-active-disabled: #97a6ba;
-  --tab-filled-unactive-standard: #97a6ba;
-  --tab-filled-unactive-hover: #64748b;
+  --tab-filled-unactive-standard: #64748b;
+  --tab-filled-unactive-hover: #97a6ba;
   --tab-filled-unactive-pressed: #475569;
   --tab-filled-unactive-disabled: #fbfdfe;
   --tab-outlined-active-standard: #ffffff;
