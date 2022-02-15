@@ -57,7 +57,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "#ffffff",
+          "value": "#27303f",
           "type": "color"
         },
         "pressed": {
