@@ -5,8 +5,8 @@
   --fg-on-light: #27303f;
   --fg-on-dark: #ffffff;
   --bg-default: #27303f;
-  --bg-muted: #475569;
-  --bg-gray: #475569;
+  --bg-muted: #364152;
+  --bg-gray: #364152;
   --text-on-dark: #ffffff;
   --text-on-light: #27303f;
   --text-default: #ffffff;
@@ -56,7 +56,7 @@
   --tab-filled-active-hover: #008697;
   --tab-filled-active-pressed: #005e6a;
   --tab-filled-active-disabled: #97a6ba;
-  --tab-filled-unactive-standard: #64748b;
+  --tab-filled-unactive-standard: #364152;
   --tab-filled-unactive-hover: #475569;
   --tab-filled-unactive-pressed: #364152;
   --tab-filled-unactive-disabled: #fbfdfe;
@@ -68,7 +68,7 @@
   --tab-outlined-unactive-hover: #008697;
   --tab-outlined-unactive-pressed: #05505c;
   --tab-outlined-unactive-disabled: #97a6ba;
-  --input-background-standard: #27303f;
+  --input-background-standard: #364152;
   --input-background-hover: #e6f3f5;
   --input-background-pressed: #cce7ea;
   --input-background-disabled: #fbfdfe;
@@ -76,7 +76,7 @@
   --input-stroke-hover: #80c3cb;
   --input-stroke-pressed: #4daab6;
   --input-stroke-disabled: #e2e8f0;
-  --dropdown-background-standard: #475569;
+  --dropdown-background-standard: #364152;
   --dropdown-background-hover: #e6f3f5;
   --dropdown-background-pressed: #cce7ea;
   --dropdown-background-disabled: #fbfdfe;

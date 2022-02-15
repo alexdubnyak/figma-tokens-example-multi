@@ -27,11 +27,11 @@
       "type": "color"
     },
     "muted": {
-      "value": "#475569",
+      "value": "#364152",
       "type": "color"
     },
     "gray": {
-      "value": "#475569",
+      "value": "#364152",
       "type": "color"
     }
   },
@@ -271,7 +271,7 @@
       },
       "unactive": {
         "standard": {
-          "value": "#64748b",
+          "value": "#364152",
           "type": "color"
         },
         "hover": {
@@ -330,7 +330,7 @@
   "input": {
     "background": {
       "standard": {
-        "value": "#27303f",
+        "value": "#364152",
         "type": "color"
       },
       "hover": {
@@ -368,7 +368,7 @@
   "dropdown": {
     "background": {
       "standard": {
-        "value": "#475569",
+        "value": "#364152",
         "type": "color"
       },
       "hover": {
