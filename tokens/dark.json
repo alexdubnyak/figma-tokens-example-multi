@@ -166,7 +166,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "#97a6ba",
+            "value": "#475569",
             "type": "color"
           },
           "pressed": {
@@ -275,11 +275,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "#97a6ba",
+          "value": "#475569",
           "type": "color"
         },
         "pressed": {
-          "value": "#475569",
+          "value": "#364152",
           "type": "color"
         },
         "disabled": {

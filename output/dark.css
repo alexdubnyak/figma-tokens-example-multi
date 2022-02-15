@@ -34,7 +34,7 @@
   --button-background-selector-pressed: #99cfd5;
   --button-background-selector-disabled: #e5e7eb;
   --button-background-collapse-horizontal-standard: #475569;
-  --button-background-collapse-horizontal-hover: #97a6ba;
+  --button-background-collapse-horizontal-hover: #475569;
   --button-background-collapse-horizontal-pressed: #475569;
   --button-background-collapse-horizontal-disabled: #e2e8f0;
   --button-background-collapse-vertical-standard: #f1f5f9;
@@ -57,8 +57,8 @@
   --tab-filled-active-pressed: #005e6a;
   --tab-filled-active-disabled: #97a6ba;
   --tab-filled-unactive-standard: #64748b;
-  --tab-filled-unactive-hover: #97a6ba;
-  --tab-filled-unactive-pressed: #475569;
+  --tab-filled-unactive-hover: #475569;
+  --tab-filled-unactive-pressed: #364152;
   --tab-filled-unactive-disabled: #fbfdfe;
   --tab-outlined-active-standard: #ffffff;
   --tab-outlined-active-hover: #008697;
