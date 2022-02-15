@@ -12,8 +12,12 @@
       "value": "#97a6ba",
       "type": "color"
     },
-    "accent": {
-      "value": "#008697",
+    "on-light": {
+      "value": "#27303f",
+      "type": "color"
+    },
+    "on-dark": {
+      "value": "#ffffff",
       "type": "color"
     }
   },
@@ -28,10 +32,6 @@
     },
     "gray": {
       "value": "#475569",
-      "type": "color"
-    },
-    "accent": {
-      "value": "#008697",
       "type": "color"
     }
   },

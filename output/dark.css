@@ -2,11 +2,11 @@
           --accent: #008697;
   --fg-default: #ffffff;
   --fg-muted: #97a6ba;
-  --fg-accent: #008697;
+  --fg-on-light: #27303f;
+  --fg-on-dark: #ffffff;
   --bg-default: #27303f;
   --bg-muted: #475569;
   --bg-gray: #475569;
-  --bg-accent: #008697;
   --text-on-dark: #ffffff;
   --text-on-light: #27303f;
   --text-default: #ffffff;

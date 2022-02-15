@@ -19,10 +19,6 @@
     "on-light": {
       "value": "#27303f",
       "type": "color"
-    },
-    "muted-copy": {
-      "value": "#97a6ba",
-      "type": "color"
     }
   },
   "bg": {
