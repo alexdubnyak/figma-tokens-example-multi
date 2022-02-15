@@ -84,7 +84,7 @@
   --dropdown-stroke-hover: #80c3cb;
   --dropdown-stroke-pressed: #4daab6;
   --dropdown-stroke-disabled: #e2e8f0;
-  --checkbox-background-standard: #f1f5f9;
+  --checkbox-background-standard: #e2e8f0;
   --checkbox-background-hover: #e6f3f5;
   --checkbox-background-pressed: #cce7ea;
   --checkbox-background-disabled: #fbfdfe;
@@ -95,7 +95,7 @@
   --checkbox-stroke-hover: #008697;
   --checkbox-stroke-pressed: #006b79;
   --checkbox-stroke-disabled: #e2e8f0;
-  --radiobutton-background-standard: #ffffff;
+  --radiobutton-background-standard: #e2e8f0;
   --radiobutton-background-hover: #e6f3f5;
   --radiobutton-background-pressed: #cce7ea;
   --radiobutton-background-disabled: #fbfdfe;
