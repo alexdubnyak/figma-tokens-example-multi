@@ -1057,7 +1057,7 @@
   "headline": {
     "H6": {
       "value": {
-        "fontFamily": "Inter",
+        "fontFamily": "Montserrat",
         "fontWeight": "Medium",
         "lineHeight": "120%",
         "fontSize": 16,
@@ -1070,7 +1070,7 @@
     },
     "H5": {
       "value": {
-        "fontFamily": "Inter",
+        "fontFamily": "Montserrat",
         "fontWeight": "Medium",
         "lineHeight": "120%",
         "fontSize": 18,
@@ -1083,7 +1083,7 @@
     },
     "H4": {
       "value": {
-        "fontFamily": "Inter",
+        "fontFamily": "Montserrat",
         "fontWeight": "Medium",
         "lineHeight": "120%",
         "fontSize": 20,
@@ -1096,7 +1096,7 @@
     },
     "H3": {
       "value": {
-        "fontFamily": "Inter",
+        "fontFamily": "Montserrat",
         "fontWeight": "Medium",
         "lineHeight": "120%",
         "fontSize": 22,
@@ -1109,7 +1109,7 @@
     },
     "H2": {
       "value": {
-        "fontFamily": "Inter",
+        "fontFamily": "Montserrat",
         "fontWeight": "Medium",
         "lineHeight": "120%",
         "fontSize": 25,
@@ -1122,7 +1122,7 @@
     },
     "H1": {
       "value": {
-        "fontFamily": "Inter",
+        "fontFamily": "Montserrat",
         "fontWeight": "Medium",
         "lineHeight": "120%",
         "fontSize": 28,
