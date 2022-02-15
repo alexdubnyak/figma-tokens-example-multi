@@ -611,7 +611,7 @@
       "type": "fontWeights"
     },
     "inter-2": {
-      "value": "Semi Bold",
+      "value": "SemiBold",
       "type": "fontWeights"
     }
   },
@@ -950,7 +950,7 @@
         "11px": {
           "value": {
             "fontFamily": "Inter",
-            "fontWeight": "Semi Bold",
+            "fontWeight": "SemiBold",
             "lineHeight": "120%",
             "fontSize": 11,
             "letterSpacing": "0%",
@@ -963,7 +963,7 @@
         "12px": {
           "value": {
             "fontFamily": "Inter",
-            "fontWeight": "Semi Bold",
+            "fontWeight": "SemiBold",
             "lineHeight": "120%",
             "fontSize": 12,
             "letterSpacing": "0%",
@@ -976,7 +976,7 @@
         "14px": {
           "value": {
             "fontFamily": "Inter",
-            "fontWeight": "Semi Bold",
+            "fontWeight": "SemiBold",
             "lineHeight": "120%",
             "fontSize": 14,
             "letterSpacing": "0%",
@@ -989,7 +989,7 @@
         "16px": {
           "value": {
             "fontFamily": "Inter",
-            "fontWeight": "Semi Bold",
+            "fontWeight": "SemiBold",
             "lineHeight": "120%",
             "fontSize": 16,
             "letterSpacing": "0%",
@@ -1002,7 +1002,7 @@
         "18px": {
           "value": {
             "fontFamily": "Inter",
-            "fontWeight": "Semi Bold",
+            "fontWeight": "SemiBold",
             "lineHeight": "120%",
             "fontSize": 18,
             "letterSpacing": "0%",
@@ -1015,7 +1015,7 @@
         "20px": {
           "value": {
             "fontFamily": "Inter",
-            "fontWeight": "Semi Bold",
+            "fontWeight": "SemiBold",
             "lineHeight": "120%",
             "fontSize": 20,
             "letterSpacing": "0%",
@@ -1028,7 +1028,7 @@
         "22px": {
           "value": {
             "fontFamily": "Inter",
-            "fontWeight": "Semi Bold",
+            "fontWeight": "SemiBold",
             "lineHeight": "120%",
             "fontSize": 22,
             "letterSpacing": "0%",
@@ -1041,7 +1041,7 @@
         "25px": {
           "value": {
             "fontFamily": "Inter",
-            "fontWeight": "Semi Bold",
+            "fontWeight": "SemiBold",
             "lineHeight": "120%",
             "fontSize": 25,
             "letterSpacing": "0%",
@@ -1058,7 +1058,7 @@
     "H6": {
       "value": {
         "fontFamily": "Montserrat",
-        "fontWeight": "Semi Bold",
+        "fontWeight": "SemiBold",
         "lineHeight": "120%",
         "fontSize": 16,
         "letterSpacing": "0%",
@@ -1071,7 +1071,7 @@
     "H5": {
       "value": {
         "fontFamily": "Montserrat",
-        "fontWeight": "Semi Bold",
+        "fontWeight": "SemiBold",
         "lineHeight": "120%",
         "fontSize": 18,
         "letterSpacing": "0%",
@@ -1084,7 +1084,7 @@
     "H4": {
       "value": {
         "fontFamily": "Montserrat",
-        "fontWeight": "Semi Bold",
+        "fontWeight": "SemiBold",
         "lineHeight": "120%",
         "fontSize": 20,
         "letterSpacing": "0%",
@@ -1097,7 +1097,7 @@
     "H3": {
       "value": {
         "fontFamily": "Montserrat",
-        "fontWeight": "Semi Bold",
+        "fontWeight": "SemiBold",
         "lineHeight": "120%",
         "fontSize": 22,
         "letterSpacing": "0%",
@@ -1110,7 +1110,7 @@
     "H2": {
       "value": {
         "fontFamily": "Montserrat",
-        "fontWeight": "Semi Bold",
+        "fontWeight": "SemiBold",
         "lineHeight": "120%",
         "fontSize": 25,
         "letterSpacing": "0%",
@@ -1123,7 +1123,7 @@
     "H1": {
       "value": {
         "fontFamily": "Montserrat",
-        "fontWeight": "Semi Bold",
+        "fontWeight": "SemiBold",
         "lineHeight": "120%",
         "fontSize": 28,
         "letterSpacing": "0%",
