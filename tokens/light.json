@@ -12,8 +12,16 @@
       "value": "#97a6ba",
       "type": "color"
     },
-    "accent": {
-      "value": "#008697",
+    "on-dark": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "on-light": {
+      "value": "#27303f",
+      "type": "color"
+    },
+    "muted-copy": {
+      "value": "#97a6ba",
       "type": "color"
     }
   },
@@ -29,19 +37,15 @@
     "gray": {
       "value": "#f1f5f9",
       "type": "color"
-    },
-    "accent": {
-      "value": "#008697",
-      "type": "color"
     }
   },
   "text": {
     "on-dark": {
-      "value": "#27303f",
+      "value": "#ffffff",
       "type": "color"
     },
     "on-light": {
-      "value": "#ffffff",
+      "value": "#27303f",
       "type": "color"
     },
     "default": {

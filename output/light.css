@@ -2,13 +2,14 @@
           --accent: #008697;
   --fg-default: #27303f;
   --fg-muted: #97a6ba;
-  --fg-accent: #008697;
+  --fg-on-dark: #ffffff;
+  --fg-on-light: #27303f;
+  --fg-muted-copy: #97a6ba;
   --bg-default: #ffffff;
   --bg-muted: #fbfdfe;
   --bg-gray: #f1f5f9;
-  --bg-accent: #008697;
-  --text-on-dark: #27303f;
-  --text-on-light: #ffffff;
+  --text-on-dark: #ffffff;
+  --text-on-light: #27303f;
   --text-default: #ffffff;
   --controls-close-on-black-standard: #00505b;
   --controls-close-on-black-hover: #ffffff;
