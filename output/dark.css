@@ -55,11 +55,11 @@
   --tab-filled-active-standard: #339eac;
   --tab-filled-active-hover: #008697;
   --tab-filled-active-pressed: #1992a1;
-  --tab-filled-active-disabled: #97a6ba;
+  --tab-filled-active-disabled: #64748b;
   --tab-filled-unactive-standard: #364152;
-  --tab-filled-unactive-hover: #97a6ba;
-  --tab-filled-unactive-pressed: #475569;
-  --tab-filled-unactive-disabled: #fbfdfe;
+  --tab-filled-unactive-hover: #475569;
+  --tab-filled-unactive-pressed: #364152;
+  --tab-filled-unactive-disabled: #64748b;
   --tab-outlined-active-standard: #ffffff;
   --tab-outlined-active-hover: #008697;
   --tab-outlined-active-pressed: #05505c;
