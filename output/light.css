@@ -1,13 +1,15 @@
 .light-theme {
-          --fg-default: #27303f;
+          --accent: #008697;
+  --fg-default: #27303f;
   --fg-muted: #97a6ba;
   --fg-accent: #008697;
   --bg-default: #ffffff;
   --bg-muted: #fbfdfe;
   --bg-gray: #f1f5f9;
   --bg-accent: #008697;
-  --text-dark: #27303f;
-  --text-white: #ffffff;
+  --text-on-dark: #27303f;
+  --text-on-light: #ffffff;
+  --text-default: #ffffff;
   --controls-close-on-black-standard: #00505b;
   --controls-close-on-black-hover: #ffffff;
   --controls-close-on-black-pressed: #80c3cb;

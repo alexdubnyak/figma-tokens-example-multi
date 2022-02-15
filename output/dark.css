@@ -1,13 +1,15 @@
 .dark-theme {
-          --fg-default: #ffffff;
+          --accent: #008697;
+  --fg-default: #ffffff;
   --fg-muted: #97a6ba;
   --fg-accent: #008697;
   --bg-default: #27303f;
   --bg-muted: #475569;
   --bg-gray: #475569;
   --bg-accent: #008697;
-  --text-dark: #ffffff;
-  --text-white: #27303f;
+  --text-on-dark: #ffffff;
+  --text-on-light: #27303f;
+  --text-default: #ffffff;
   --controls-close-on-black-standard: #00505b;
   --controls-close-on-black-hover: #27303f;
   --controls-close-on-black-pressed: #80c3cb;

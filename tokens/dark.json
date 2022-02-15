@@ -1,4 +1,8 @@
 {
+  "accent": {
+    "value": "#008697",
+    "type": "color"
+  },
   "fg": {
     "default": {
       "value": "#ffffff",
@@ -32,12 +36,16 @@
     }
   },
   "text": {
-    "dark": {
+    "on-dark": {
       "value": "#ffffff",
       "type": "color"
     },
-    "white": {
+    "on-light": {
       "value": "#27303f",
+      "type": "color"
+    },
+    "default": {
+      "value": "#ffffff",
       "type": "color"
     }
   },
