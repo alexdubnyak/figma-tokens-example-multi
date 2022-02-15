@@ -138,7 +138,8 @@
   --colors-pink-800: #99154b;
   --colors-pink-900: #751a3d;
   --basic: 2;
-  --font-families-inter: Nunito;
+  --font-families-inter: Inter;
+  --font-families-montserrat: Montserrat;
   --line-heights-0: 120%;
   --font-weights-inter-0: Regular;
   --font-weights-inter-1: Medium;

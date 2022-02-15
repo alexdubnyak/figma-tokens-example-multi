@@ -587,7 +587,11 @@
   },
   "fontFamilies": {
     "inter": {
-      "value": "Nunito",
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "montserrat": {
+      "value": "Montserrat",
       "type": "fontFamilies"
     }
   },
@@ -665,7 +669,7 @@
     "caption": {
       "xxs": {
         "value": {
-          "fontFamily": "Nunito",
+          "fontFamily": "Inter",
           "fontWeight": "Regular",
           "lineHeight": "120%",
           "fontSize": 11,
@@ -678,7 +682,7 @@
       },
       "xs": {
         "value": {
-          "fontFamily": "Nunito",
+          "fontFamily": "Inter",
           "fontWeight": "Regular",
           "lineHeight": "120%",
           "fontSize": 12,
@@ -691,7 +695,7 @@
       },
       "s": {
         "value": {
-          "fontFamily": "Nunito",
+          "fontFamily": "Inter",
           "fontWeight": "Regular",
           "lineHeight": "120%",
           "fontSize": 14,
@@ -705,7 +709,7 @@
     },
     "label": {
       "value": {
-        "fontFamily": "Nunito",
+        "fontFamily": "Inter",
         "fontWeight": "Regular",
         "lineHeight": "120%",
         "fontSize": 14,
@@ -718,7 +722,7 @@
     },
     "placeholder": {
       "value": {
-        "fontFamily": "Nunito",
+        "fontFamily": "Inter",
         "fontWeight": "Regular",
         "lineHeight": "120%",
         "fontSize": 14,
@@ -733,7 +737,7 @@
       "regular": {
         "11px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Regular",
             "lineHeight": "120%",
             "fontSize": 11,
@@ -746,7 +750,7 @@
         },
         "12px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Regular",
             "lineHeight": "120%",
             "fontSize": 12,
@@ -759,7 +763,7 @@
         },
         "14px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Regular",
             "lineHeight": "120%",
             "fontSize": 14,
@@ -772,7 +776,7 @@
         },
         "16px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Regular",
             "lineHeight": "120%",
             "fontSize": 16,
@@ -785,7 +789,7 @@
         },
         "18px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Regular",
             "lineHeight": "120%",
             "fontSize": 18,
@@ -798,7 +802,7 @@
         },
         "20px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Regular",
             "lineHeight": "120%",
             "fontSize": 20,
@@ -811,7 +815,7 @@
         },
         "22px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Regular",
             "lineHeight": "120%",
             "fontSize": 22,
@@ -824,7 +828,7 @@
         },
         "25px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Regular",
             "lineHeight": "120%",
             "fontSize": 25,
@@ -839,7 +843,7 @@
       "medium": {
         "11px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Medium",
             "lineHeight": "120%",
             "fontSize": 11,
@@ -852,7 +856,7 @@
         },
         "12px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Medium",
             "lineHeight": "120%",
             "fontSize": 12,
@@ -865,7 +869,7 @@
         },
         "14px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Medium",
             "lineHeight": "120%",
             "fontSize": 14,
@@ -878,7 +882,7 @@
         },
         "16px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Medium",
             "lineHeight": "120%",
             "fontSize": 16,
@@ -891,7 +895,7 @@
         },
         "18px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Medium",
             "lineHeight": "120%",
             "fontSize": 18,
@@ -904,7 +908,7 @@
         },
         "20px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Medium",
             "lineHeight": "120%",
             "fontSize": 20,
@@ -917,7 +921,7 @@
         },
         "22px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Medium",
             "lineHeight": "120%",
             "fontSize": 22,
@@ -930,7 +934,7 @@
         },
         "25px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Medium",
             "lineHeight": "120%",
             "fontSize": 25,
@@ -945,7 +949,7 @@
       "semibold": {
         "11px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Semi Bold",
             "lineHeight": "120%",
             "fontSize": 11,
@@ -958,7 +962,7 @@
         },
         "12px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Semi Bold",
             "lineHeight": "120%",
             "fontSize": 12,
@@ -971,7 +975,7 @@
         },
         "14px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Semi Bold",
             "lineHeight": "120%",
             "fontSize": 14,
@@ -984,7 +988,7 @@
         },
         "16px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Semi Bold",
             "lineHeight": "120%",
             "fontSize": 16,
@@ -997,7 +1001,7 @@
         },
         "18px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Semi Bold",
             "lineHeight": "120%",
             "fontSize": 18,
@@ -1010,7 +1014,7 @@
         },
         "20px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Semi Bold",
             "lineHeight": "120%",
             "fontSize": 20,
@@ -1023,7 +1027,7 @@
         },
         "22px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Semi Bold",
             "lineHeight": "120%",
             "fontSize": 22,
@@ -1036,7 +1040,7 @@
         },
         "25px": {
           "value": {
-            "fontFamily": "Nunito",
+            "fontFamily": "Inter",
             "fontWeight": "Semi Bold",
             "lineHeight": "120%",
             "fontSize": 25,
@@ -1053,7 +1057,7 @@
   "headline": {
     "H6": {
       "value": {
-        "fontFamily": "Nunito",
+        "fontFamily": "Inter",
         "fontWeight": "Medium",
         "lineHeight": "120%",
         "fontSize": 16,
@@ -1066,7 +1070,7 @@
     },
     "H5": {
       "value": {
-        "fontFamily": "Nunito",
+        "fontFamily": "Inter",
         "fontWeight": "Medium",
         "lineHeight": "120%",
         "fontSize": 18,
@@ -1079,7 +1083,7 @@
     },
     "H4": {
       "value": {
-        "fontFamily": "Nunito",
+        "fontFamily": "Inter",
         "fontWeight": "Medium",
         "lineHeight": "120%",
         "fontSize": 20,
@@ -1092,7 +1096,7 @@
     },
     "H3": {
       "value": {
-        "fontFamily": "Nunito",
+        "fontFamily": "Inter",
         "fontWeight": "Medium",
         "lineHeight": "120%",
         "fontSize": 22,
@@ -1105,7 +1109,7 @@
     },
     "H2": {
       "value": {
-        "fontFamily": "Nunito",
+        "fontFamily": "Inter",
         "fontWeight": "Medium",
         "lineHeight": "120%",
         "fontSize": 25,
@@ -1118,7 +1122,7 @@
     },
     "H1": {
       "value": {
-        "fontFamily": "Nunito",
+        "fontFamily": "Inter",
         "fontWeight": "Medium",
         "lineHeight": "120%",
         "fontSize": 28,
