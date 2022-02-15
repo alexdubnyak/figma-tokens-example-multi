@@ -602,16 +602,20 @@
     }
   },
   "fontWeights": {
-    "inter-0": {
+    "regular": {
       "value": "Regular",
       "type": "fontWeights"
     },
-    "inter-1": {
+    "medium": {
       "value": "Medium",
       "type": "fontWeights"
     },
-    "inter-2": {
+    "semibold": {
       "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Bold",
       "type": "fontWeights"
     }
   },

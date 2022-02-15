@@ -141,9 +141,10 @@
   --font-families-base: Inter;
   --font-families-headline: Montserrat;
   --line-heights-0: 120%;
-  --font-weights-inter-0: Regular;
-  --font-weights-inter-1: Medium;
-  --font-weights-inter-2: SemiBold;
+  --font-weights-regular: Regular;
+  --font-weights-medium: Medium;
+  --font-weights-semibold: SemiBold;
+  --font-weights-bold: Bold;
   --font-size-11px: 11;
   --font-size-12px: 12;
   --font-size-14px: 14;
