@@ -25,10 +25,10 @@
   --button-background-primary-hover: #339eac;
   --button-background-primary-pressed: #05505c;
   --button-background-primary-disabled: #b3dbe0;
-  --button-background-secondary-standard: #f4f5f7;
-  --button-background-secondary-hover: #e5e7eb;
-  --button-background-secondary-pressed: #d2d6dc;
-  --button-background-secondary-disabled: #e5e7eb;
+  --button-background-secondary-standard: #f1f5f9;
+  --button-background-secondary-hover: #e2e8f0;
+  --button-background-secondary-pressed: #cfd8e3;
+  --button-background-secondary-disabled: #f1f5f9;
   --button-background-selector-standard: #ffffff00;
   --button-background-selector-hover: #b3dbe0;
   --button-background-selector-pressed: #99cfd5;
