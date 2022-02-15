@@ -330,7 +330,7 @@
   "input": {
     "background": {
       "standard": {
-        "value": "#ffffff",
+        "value": "#f1f5f9",
         "type": "color"
       },
       "hover": {
@@ -368,7 +368,7 @@
   "dropdown": {
     "background": {
       "standard": {
-        "value": "#ffffff",
+        "value": "#f1f5f9",
         "type": "color"
       },
       "hover": {
@@ -406,7 +406,7 @@
   "checkbox": {
     "background": {
       "standard": {
-        "value": "#ffffff",
+        "value": "#f1f5f9",
         "type": "color"
       },
       "hover": {
