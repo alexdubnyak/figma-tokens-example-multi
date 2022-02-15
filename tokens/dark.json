@@ -330,7 +330,7 @@
   "input": {
     "background": {
       "standard": {
-        "value": "#27303f",
+        "value": "#364152",
         "type": "color"
       },
       "hover": {
@@ -368,7 +368,7 @@
   "dropdown": {
     "background": {
       "standard": {
-        "value": "#475569",
+        "value": "#364152",
         "type": "color"
       },
       "hover": {
