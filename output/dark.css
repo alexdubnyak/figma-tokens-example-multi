@@ -29,9 +29,9 @@
   --button-background-secondary-hover: #475569;
   --button-background-secondary-pressed: #364152;
   --button-background-secondary-disabled: #64748b;
-  --button-background-selector-standard: #64748b;
-  --button-background-selector-hover: #475569;
-  --button-background-selector-pressed: #97a6ba;
+  --button-background-selector-standard: #364152;
+  --button-background-selector-hover: #27303f;
+  --button-background-selector-pressed: #364152;
   --button-background-selector-disabled: #475569;
   --button-background-collapse-horizontal-standard: #475569;
   --button-background-collapse-horizontal-hover: #97a6ba;
