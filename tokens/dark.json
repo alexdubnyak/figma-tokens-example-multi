@@ -514,5 +514,29 @@
   "xl": {
     "value": 32,
     "type": "borderRadius"
+  },
+  "link": {
+    "on-light": {
+      "standard": {
+        "value": "#008697",
+        "type": "color"
+      },
+      "hover": {
+        "value": "#4daab6",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "#006b79",
+        "type": "color"
+      },
+      "visited": {
+        "value": "#4daab6",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#97a6ba",
+        "type": "color"
+      }
+    }
   }
 }

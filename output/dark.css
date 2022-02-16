@@ -109,4 +109,9 @@
   --radiobutton-stroke-disabled-copy: #e2e8f0;
   --xs: 2;
   --xl: 32;
+  --link-on-light-standard: #008697;
+  --link-on-light-hover: #4daab6;
+  --link-on-light-pressed: #006b79;
+  --link-on-light-visited: #4daab6;
+  --link-on-light-disabled: #97a6ba;
       }
