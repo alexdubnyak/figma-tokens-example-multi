@@ -52,6 +52,10 @@
       "9": {
         "value": "#27303f",
         "type": "color"
+      },
+      "10": {
+        "value": "#1a202e",
+        "type": "color"
       }
     }
   },
