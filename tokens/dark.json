@@ -406,19 +406,19 @@
   "checkbox": {
     "background": {
       "standard": {
-        "value": "#27303f",
+        "value": "#364152",
         "type": "color"
       },
       "hover": {
-        "value": "#e6f3f5",
+        "value": "#475569",
         "type": "color"
       },
       "pressed": {
-        "value": "#cce7ea",
+        "value": "#64748b",
         "type": "color"
       },
       "disabled": {
-        "value": "#fbfdfe",
+        "value": "#64748b",
         "type": "color"
       },
       "checked": {
@@ -430,7 +430,7 @@
         "type": "color"
       },
       "checked-disabled": {
-        "value": "#e2e8f0",
+        "value": "#64748b",
         "type": "color"
       }
     },
@@ -456,19 +456,19 @@
   "radiobutton": {
     "background": {
       "standard": {
-        "value": "#27303f",
+        "value": "#364152",
         "type": "color"
       },
       "hover": {
-        "value": "#e6f3f5",
+        "value": "#475569",
         "type": "color"
       },
       "pressed": {
-        "value": "#cce7ea",
+        "value": "#64748b",
         "type": "color"
       },
       "disabled": {
-        "value": "#fbfdfe",
+        "value": "#64748b",
         "type": "color"
       },
       "checked": {
@@ -480,7 +480,7 @@
         "type": "color"
       },
       "checked-disabled": {
-        "value": "#e2e8f0",
+        "value": "#64748b",
         "type": "color"
       }
     },
