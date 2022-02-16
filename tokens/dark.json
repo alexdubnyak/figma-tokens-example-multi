@@ -537,6 +537,28 @@
         "value": "#97a6ba",
         "type": "color"
       }
+    },
+    "on-dark": {
+      "standard": {
+        "value": "#4daab6",
+        "type": "color"
+      },
+      "hover": {
+        "value": "#80c3cb",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "#1992a1",
+        "type": "color"
+      },
+      "visited": {
+        "value": "#80c3cb",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#97a6ba",
+        "type": "color"
+      }
     }
   }
 }

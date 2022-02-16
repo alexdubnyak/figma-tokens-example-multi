@@ -114,4 +114,9 @@
   --link-on-light-pressed: #006b79;
   --link-on-light-visited: #4daab6;
   --link-on-light-disabled: #97a6ba;
+  --link-on-dark-standard: #4daab6;
+  --link-on-dark-hover: #80c3cb;
+  --link-on-dark-pressed: #1992a1;
+  --link-on-dark-visited: #80c3cb;
+  --link-on-dark-disabled: #97a6ba;
       }
