@@ -564,5 +564,11 @@
         "type": "color"
       }
     }
+  },
+  "side-bar": {
+    "background": {
+      "value": "#1A202E",
+      "type": "color"
+    }
   }
 }

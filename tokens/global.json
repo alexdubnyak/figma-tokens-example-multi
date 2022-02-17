@@ -250,6 +250,10 @@
       "850": {
         "value": "#252b38",
         "type": "color"
+      },
+      "900": {
+        "value": "#1A202E",
+        "type": "color"
       }
     },
     "gray": {
