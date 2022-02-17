@@ -4,6 +4,7 @@
   --fg-muted: #97a6ba;
   --fg-on-light: #27303f;
   --fg-on-dark: #ffffff;
+  --fg-gray: #cfd8e3;
   --bg-default: #27303f;
   --bg-muted: #475569;
   --bg-gray: #475569;
@@ -29,9 +30,9 @@
   --button-background-secondary-hover: #475569;
   --button-background-secondary-pressed: #364152;
   --button-background-secondary-disabled: #64748b;
-  --button-background-selector-standard: #364152;
-  --button-background-selector-hover: #27303f;
-  --button-background-selector-pressed: #364152;
+  --button-background-selector-standard: #475569;
+  --button-background-selector-hover: #364152;
+  --button-background-selector-pressed: #27303f;
   --button-background-selector-disabled: #475569;
   --button-background-collapse-horizontal-standard: #475569;
   --button-background-collapse-horizontal-hover: #97a6ba;

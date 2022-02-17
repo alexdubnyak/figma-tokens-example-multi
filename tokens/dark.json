@@ -19,6 +19,10 @@
     "on-dark": {
       "value": "#ffffff",
       "type": "color"
+    },
+    "gray": {
+      "value": "#cfd8e3",
+      "type": "color"
     }
   },
   "bg": {
@@ -143,15 +147,15 @@
       },
       "selector": {
         "standard": {
-          "value": "#364152",
+          "value": "#475569",
           "type": "color"
         },
         "hover": {
-          "value": "#27303f",
+          "value": "#364152",
           "type": "color"
         },
         "pressed": {
-          "value": "#364152",
+          "value": "#27303f",
           "type": "color"
         },
         "disabled": {
