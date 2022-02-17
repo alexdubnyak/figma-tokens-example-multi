@@ -6,7 +6,7 @@
   --fg-on-light: #27303f;
   --fg-gray: #475569;
   --bg-default: #ffffff;
-  --bg-muted: #fbfdfe;
+  --bg-muted: #f1f5f9;
   --bg-gray: #f1f5f9;
   --text-on-dark: #ffffff;
   --text-on-light: #27303f;
@@ -27,8 +27,8 @@
   --button-background-primary-pressed: #05505c;
   --button-background-primary-disabled: #b3dbe0;
   --button-background-secondary-standard: #f1f5f9;
-  --button-background-secondary-hover: #e6f3f5;
-  --button-background-secondary-pressed: #cce7ea;
+  --button-background-secondary-hover: #e2e8f0;
+  --button-background-secondary-pressed: #cfd8e3;
   --button-background-secondary-disabled: #f1f5f9;
   --button-background-selector-standard: #ffffff00;
   --button-background-selector-hover: #b3dbe0;
@@ -70,9 +70,9 @@
   --tab-outlined-unactive-pressed: #05505c;
   --tab-outlined-unactive-disabled: #97a6ba;
   --input-background-standard: #f1f5f9;
-  --input-background-hover: #e6f3f5;
-  --input-background-pressed: #cce7ea;
-  --input-background-disabled: #fbfdfe;
+  --input-background-hover: #e2e8f0;
+  --input-background-pressed: #cfd8e3;
+  --input-background-disabled: #f1f5f9;
   --input-stroke-standard: #b3dbe0;
   --input-stroke-hover: #80c3cb;
   --input-stroke-pressed: #4daab6;
