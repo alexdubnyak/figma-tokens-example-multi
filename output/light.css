@@ -78,9 +78,9 @@
   --input-stroke-pressed: #4daab6;
   --input-stroke-disabled: #e2e8f0;
   --dropdown-background-standard: #f1f5f9;
-  --dropdown-background-hover: #e6f3f5;
-  --dropdown-background-pressed: #cce7ea;
-  --dropdown-background-disabled: #fbfdfe;
+  --dropdown-background-hover: #e2e8f0;
+  --dropdown-background-pressed: #cfd8e3;
+  --dropdown-background-disabled: #f1f5f9;
   --dropdown-stroke-standard: #b3dbe0;
   --dropdown-stroke-hover: #80c3cb;
   --dropdown-stroke-pressed: #4daab6;
