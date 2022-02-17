@@ -147,7 +147,7 @@
       },
       "selector": {
         "standard": {
-          "value": "#f1f5f9",
+          "value": "#f1f5f900",
           "type": "color"
         },
         "hover": {
