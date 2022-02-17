@@ -518,5 +518,11 @@
   "xl": {
     "value": 32,
     "type": "borderRadius"
+  },
+  "side-bar": {
+    "background": {
+      "value": "#27303f",
+      "type": "color"
+    }
   }
 }
