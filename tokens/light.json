@@ -414,15 +414,15 @@
         "type": "color"
       },
       "hover": {
-        "value": "#e6f3f5",
+        "value": "#cfd8e3",
         "type": "color"
       },
       "pressed": {
-        "value": "#cce7ea",
+        "value": "#97a6ba",
         "type": "color"
       },
       "disabled": {
-        "value": "#fbfdfe",
+        "value": "#f1f5f9",
         "type": "color"
       },
       "checked": {
@@ -434,7 +434,7 @@
         "type": "color"
       },
       "checked-disabled": {
-        "value": "#e2e8f0",
+        "value": "#f1f5f9",
         "type": "color"
       }
     },
@@ -464,15 +464,15 @@
         "type": "color"
       },
       "hover": {
-        "value": "#e6f3f5",
+        "value": "#cfd8e3",
         "type": "color"
       },
       "pressed": {
-        "value": "#cce7ea",
+        "value": "#97a6ba",
         "type": "color"
       },
       "disabled": {
-        "value": "#fbfdfe",
+        "value": "#f1f5f9",
         "type": "color"
       },
       "checked": {
@@ -484,7 +484,7 @@
         "type": "color"
       },
       "checked-disabled": {
-        "value": "#e2e8f0",
+        "value": "#f1f5f9",
         "type": "color"
       }
     },
