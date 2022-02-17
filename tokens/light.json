@@ -123,7 +123,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "#b3dbe0",
+          "value": "#f1f5f9",
           "type": "color"
         }
       },
@@ -133,11 +133,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "#e6f3f5",
+          "value": "#e2e8f0",
           "type": "color"
         },
         "pressed": {
-          "value": "#cce7ea",
+          "value": "#cfd8e3",
           "type": "color"
         },
         "disabled": {
@@ -147,19 +147,19 @@
       },
       "selector": {
         "standard": {
-          "value": "#ffffff00",
+          "value": "#f1f5f9",
           "type": "color"
         },
         "hover": {
-          "value": "#b3dbe0",
+          "value": "#e2e8f0",
           "type": "color"
         },
         "pressed": {
-          "value": "#99cfd5",
+          "value": "#cfd8e3",
           "type": "color"
         },
         "disabled": {
-          "value": "#e5e7eb",
+          "value": "#f1f5f9",
           "type": "color"
         }
       },
