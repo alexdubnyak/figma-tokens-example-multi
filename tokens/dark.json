@@ -362,10 +362,6 @@
       "pressed": {
         "value": "#4daab6",
         "type": "color"
-      },
-      "disabled": {
-        "value": "#e2e8f0",
-        "type": "color"
       }
     }
   },
