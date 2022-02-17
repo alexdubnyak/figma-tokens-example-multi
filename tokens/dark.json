@@ -147,7 +147,7 @@
       },
       "selector": {
         "standard": {
-          "value": "global.black",
+          "value": "#27303f00",
           "type": "color"
         },
         "hover": {
@@ -346,7 +346,7 @@
         "type": "color"
       },
       "disabled": {
-        "value": "#64748b",
+        "value": "#475569",
         "type": "color"
       }
     },
@@ -384,7 +384,7 @@
         "type": "color"
       },
       "disabled": {
-        "value": "#64748b",
+        "value": "#475569",
         "type": "color"
       }
     },

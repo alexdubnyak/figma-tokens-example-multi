@@ -30,7 +30,7 @@
   --button-background-secondary-hover: #475569;
   --button-background-secondary-pressed: #364152;
   --button-background-secondary-disabled: #64748b;
-  --button-background-selector-standard: global.black;
+  --button-background-selector-standard: #27303f00;
   --button-background-selector-hover: #27303f;
   --button-background-selector-pressed: #364152;
   --button-background-selector-disabled: #475569;
@@ -72,7 +72,7 @@
   --input-background-standard: #364152;
   --input-background-hover: #475569;
   --input-background-pressed: #64748b;
-  --input-background-disabled: #64748b;
+  --input-background-disabled: #475569;
   --input-stroke-standard: #b3dbe0;
   --input-stroke-hover: #80c3cb;
   --input-stroke-pressed: #4daab6;
@@ -80,7 +80,7 @@
   --dropdown-background-standard: #364152;
   --dropdown-background-hover: #475569;
   --dropdown-background-pressed: #64748b;
-  --dropdown-background-disabled: #64748b;
+  --dropdown-background-disabled: #475569;
   --dropdown-stroke-standard: #b3dbe0;
   --dropdown-stroke-hover: #80c3cb;
   --dropdown-stroke-pressed: #4daab6;
