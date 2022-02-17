@@ -25,14 +25,14 @@
   --button-background-primary-standard: #008697;
   --button-background-primary-hover: #339eac;
   --button-background-primary-pressed: #05505c;
-  --button-background-primary-disabled: #b3dbe0;
+  --button-background-primary-disabled: #475569;
   --button-background-secondary-standard: #364152;
   --button-background-secondary-hover: #475569;
   --button-background-secondary-pressed: #364152;
   --button-background-secondary-disabled: #64748b;
   --button-background-selector-standard: #27303f00;
-  --button-background-selector-hover: #27303f;
-  --button-background-selector-pressed: #364152;
+  --button-background-selector-hover: #364152;
+  --button-background-selector-pressed: #475569;
   --button-background-selector-disabled: #475569;
   --button-background-collapse-horizontal-standard: #475569;
   --button-background-collapse-horizontal-hover: #97a6ba;
