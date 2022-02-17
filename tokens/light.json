@@ -147,19 +147,19 @@
       },
       "selector": {
         "standard": {
-          "value": "#ffffff00",
+          "value": "#cfd8e3",
           "type": "color"
         },
         "hover": {
-          "value": "#b3dbe0",
+          "value": "#cfd8e3",
           "type": "color"
         },
         "pressed": {
-          "value": "#99cfd5",
+          "value": "#97a6ba",
           "type": "color"
         },
         "disabled": {
-          "value": "#e5e7eb",
+          "value": "#f1f5f9",
           "type": "color"
         }
       },
