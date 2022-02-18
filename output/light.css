@@ -46,12 +46,12 @@
   --medium: 6;
   --large: 8;
   --tab-blank-active-standard: #27303f;
-  --tab-blank-active-hover: #008697;
-  --tab-blank-active-pressed: #05505c;
+  --tab-blank-active-hover: #475569;
+  --tab-blank-active-pressed: #27303f;
   --tab-blank-active-disabled: #97a6ba;
   --tab-blank-unactive-standard: #97a6ba;
-  --tab-blank-unactive-hover: #008697;
-  --tab-blank-unactive-pressed: #05505c;
+  --tab-blank-unactive-hover: #27303f;
+  --tab-blank-unactive-pressed: #97a6ba;
   --tab-blank-unactive-disabled: #97a6ba;
   --tab-filled-active-standard: #339eac;
   --tab-filled-active-hover: #008697;
