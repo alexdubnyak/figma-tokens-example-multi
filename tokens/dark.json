@@ -75,7 +75,7 @@
       },
       "on-white": {
         "standard": {
-          "value": "#97a6ba",
+          "value": "#cfd8e3",
           "type": "color"
         },
         "hover": {
@@ -223,15 +223,15 @@
           "type": "color"
         },
         "hover": {
-          "value": "#008697",
+          "value": "#cfd8e3",
           "type": "color"
         },
         "pressed": {
-          "value": "#80c3cb",
+          "value": "#ffffff",
           "type": "color"
         },
         "disabled": {
-          "value": "#475569",
+          "value": "#97a6ba",
           "type": "color"
         }
       },
@@ -241,15 +241,15 @@
           "type": "color"
         },
         "hover": {
-          "value": "#008697",
+          "value": "#ffffff",
           "type": "color"
         },
         "pressed": {
-          "value": "#80c3cb",
+          "value": "#97a6ba",
           "type": "color"
         },
         "disabled": {
-          "value": "#475569",
+          "value": "#97a6ba",
           "type": "color"
         }
       }
