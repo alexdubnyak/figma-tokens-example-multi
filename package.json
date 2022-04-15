@@ -2,10 +2,11 @@
   "name": "figma-tokens-example-multi",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "scripts": {
     "start": "react-scripts start",
     "build-tokens": "./build-tokens.sh",
-    "build": "react-scripts build"
+    "build": "BUILD_PATH='./docs' react-scripts build"
   },
   "dependencies": {
     "style-dictionary": "^3.0.2",
@@ -13,7 +14,8 @@
     "yargs": "^17.3.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "5.0.0"
+    "react-scripts": "5.0.0",
+    "mini-css-extract-plugin": "2.4.5"
   },
   "eslintConfig": {
     "extends": [
