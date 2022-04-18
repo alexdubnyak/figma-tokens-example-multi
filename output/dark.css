@@ -1,5 +1,9 @@
 .dark-theme {
-          --theme-accent: #008697;
+          --theme-collapse-text-standard: #008697;
+  --theme-collapse-text-hover: #339eac;
+  --theme-collapse-text-pressed: #006b79;
+  --theme-collapse-text-disabled: #97a6ba;
+  --theme-accent: #008697;
   --theme-fg-default: #ffffff;
   --theme-fg-muted: #97a6ba;
   --theme-fg-on-light: #27303f;
