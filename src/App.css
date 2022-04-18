@@ -18,6 +18,6 @@ body > #root > div {
 }
 
 #app {
-  background: var(--theme-surface-main);
-  color: var(--theme-text-main);
+  background: var(--bg-default);
+  color: var(--fg-default);
 }
