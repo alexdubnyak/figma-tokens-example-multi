@@ -73,6 +73,9 @@
   --theme-input-background-hover: #475569;
   --theme-input-background-pressed: #64748b;
   --theme-input-background-disabled: #475569;
+  --theme-input-background-active: #f1f5f9;
+  --theme-input-background-focus: #f1f5f9;
+  --theme-input-background-filled: #364152;
   --theme-input-stroke-standard: #b3dbe0;
   --theme-input-stroke-hover: #80c3cb;
   --theme-input-stroke-pressed: #4daab6;

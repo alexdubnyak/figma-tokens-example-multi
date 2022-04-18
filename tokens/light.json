@@ -354,6 +354,10 @@
           "value": "#ffffff",
           "type": "color"
         },
+        "focus": {
+          "value": "#ffffff",
+          "type": "color"
+        },
         "filled": {
           "value": "#f1f5f9",
           "type": "color"

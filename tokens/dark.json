@@ -349,6 +349,18 @@
         "disabled": {
           "value": "#475569",
           "type": "color"
+        },
+        "active": {
+          "value": "#f1f5f9",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#f1f5f9",
+          "type": "color"
+        },
+        "filled": {
+          "value": "#364152",
+          "type": "color"
         }
       },
       "stroke": {
