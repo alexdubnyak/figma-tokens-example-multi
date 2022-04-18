@@ -128,11 +128,13 @@
   --theme-radiobutton-stroke-disabled-copy: #e2e8f0;
   --theme-xs: 2;
   --theme-xl: 32;
-  --theme-side-bar-background: #8f2d56;
+  --theme-side-bar-background: #c0c0c0;
   --theme-side-bar-button-standard: #f1f5f900;
   --theme-side-bar-button-hover: #ffffff;
   --theme-side-bar-button-pressed: #f1f5f9;
   --theme-side-bar-button-active: #e07a5f;
   --theme-cloud-stroke: #cfd8e3;
+  --theme-logo-brand: #008697;
+  --theme-logo-white: #ffffff;
   --input-focus: [object Object];
       }

@@ -4,6 +4,16 @@
       "value": "#e07a5f",
       "type": "color"
     },
+    "logo": {
+      "brand": {
+        "value": "#008697",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
     "link": {
       "on-light": {
         "standard": {

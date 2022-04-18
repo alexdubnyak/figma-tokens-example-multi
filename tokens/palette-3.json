@@ -604,7 +604,7 @@
     },
     "side-bar": {
       "background": {
-        "value": "#8f2d56",
+        "value": "#c0c0c0",
         "type": "color"
       },
       "button": {
@@ -629,6 +629,16 @@
     "cloud": {
       "stroke": {
         "value": "#cfd8e3",
+        "type": "color"
+      }
+    },
+    "logo": {
+      "brand": {
+        "value": "#008697",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
         "type": "color"
       }
     }

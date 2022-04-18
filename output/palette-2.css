@@ -1,5 +1,7 @@
 .palette-2-theme {
           --theme-accent: #e07a5f;
+  --theme-logo-brand: #008697;
+  --theme-logo-white: #ffffff;
   --theme-link-on-light-standard: #e07a5f;
   --theme-link-on-light-hover: #e6957f;
   --theme-link-on-light-pressed: #b3624c;

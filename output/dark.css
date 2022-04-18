@@ -1,5 +1,7 @@
 .dark-theme {
           --theme-accent: #008697;
+  --theme-logo-brand: #008697;
+  --theme-logo-white: #ffffff;
   --theme-link-on-light-standard: #008697;
   --theme-link-on-light-hover: #4daab6;
   --theme-link-on-light-pressed: #006b79;
