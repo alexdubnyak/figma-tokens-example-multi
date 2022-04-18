@@ -534,5 +534,18 @@
         "type": "color"
       }
     }
+  },
+  "input": {
+    "focus": {
+      "value": {
+        "x": 0,
+        "y": 0,
+        "blur": 12,
+        "spread": 0,
+        "color": "#cfd8e3",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
   }
 }
