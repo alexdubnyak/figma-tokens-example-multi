@@ -570,7 +570,38 @@
       "background": {
         "value": "#1A202E",
         "type": "color"
+      },
+      "button": {
+        "standard": {
+          "value": "#f1f5f900",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#27303f",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#475569",
+          "type": "color"
+        },
+        "active": {
+          "value": "#008697",
+          "type": "color"
+        }
       }
+    }
+  },
+  "input": {
+    "focus": {
+      "value": {
+        "x": 0,
+        "y": 0,
+        "blur": 12,
+        "spread": 0,
+        "color": "#cfd8e3",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   }
 }
