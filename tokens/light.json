@@ -1,5 +1,25 @@
 {
   "theme": {
+    "collapse": {
+      "text": {
+        "standard": {
+          "value": "#008697",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#339eac",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#006b79",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#97a6ba",
+          "type": "color"
+        }
+      }
+    },
     "accent": {
       "value": "#008697",
       "type": "color"
