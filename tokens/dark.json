@@ -601,6 +601,12 @@
           "type": "color"
         }
       }
+    },
+    "cloud": {
+      "stroke": {
+        "value": "#475569",
+        "type": "color"
+      }
     }
   },
   "input": {

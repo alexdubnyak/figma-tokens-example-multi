@@ -559,6 +559,12 @@
           "type": "color"
         }
       }
+    },
+    "cloud": {
+      "stroke": {
+        "value": "#e2e8f0",
+        "type": "color"
+      }
     }
   },
   "input": {
