@@ -36,11 +36,11 @@
   --theme-stroke-dark: #27303f;
   --theme-stroke-light: #cfd8e3;
   --theme-stroke-accent: #008697;
-  --theme-button-background-primary-standard: #e07a5f;
+  --theme-button-background-primary-standard: #0496ff;
   --theme-button-background-primary-hover: #e6957f;
   --theme-button-background-primary-pressed: #b3624c;
   --theme-button-background-primary-disabled: #f1f5f9;
-  --theme-button-background-secondary-standard: #e6f0f1;
+  --theme-button-background-secondary-standard: #C9E9FF;
   --theme-button-background-secondary-hover: #b3d3d6;
   --theme-button-background-secondary-pressed: #66a7ad;
   --theme-button-background-secondary-disabled: #f1f5f9;
@@ -67,7 +67,7 @@
   --theme-tab-blank-unactive-hover: #27303f;
   --theme-tab-blank-unactive-pressed: #97a6ba;
   --theme-tab-blank-unactive-disabled: #f1f5f9;
-  --theme-tab-filled-active-standard: #e07a5f;
+  --theme-tab-filled-active-standard: #9e2a2b;
   --theme-tab-filled-active-hover: #e6957f;
   --theme-tab-filled-active-pressed: #b3624c;
   --theme-tab-filled-active-disabled: #f1f5f9;
@@ -128,11 +128,11 @@
   --theme-radiobutton-stroke-disabled-copy: #e2e8f0;
   --theme-xs: 2;
   --theme-xl: 32;
-  --theme-side-bar-background: #3d405b;
+  --theme-side-bar-background: #8f2d56;
   --theme-side-bar-button-standard: #f1f5f900;
   --theme-side-bar-button-hover: #ffffff;
   --theme-side-bar-button-pressed: #f1f5f9;
   --theme-side-bar-button-active: #e07a5f;
-  --theme-cloud-stroke: #f1f5f9;
+  --theme-cloud-stroke: #cfd8e3;
   --input-focus: [object Object];
       }

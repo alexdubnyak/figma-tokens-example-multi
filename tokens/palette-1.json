@@ -4,6 +4,12 @@
       "value": "#e74694",
       "type": "color"
     },
+    "cloud": {
+      "stroke": {
+        "value": "#cfd8e3",
+        "type": "color"
+      }
+    },
     "fg": {
       "default": {
         "value": "#27303f",

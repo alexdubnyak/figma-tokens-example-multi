@@ -1,5 +1,6 @@
 .palette-1-theme {
           --theme-accent: #e74694;
+  --theme-cloud-stroke: #cfd8e3;
   --theme-fg-default: #27303f;
   --theme-fg-muted: #cfd8e3;
   --theme-fg-on-dark: #ffffff;

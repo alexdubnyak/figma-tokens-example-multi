@@ -178,7 +178,7 @@
       "background": {
         "primary": {
           "standard": {
-            "value": "#e07a5f",
+            "value": "#0496ff",
             "type": "color"
           },
           "hover": {
@@ -196,7 +196,7 @@
         },
         "secondary": {
           "standard": {
-            "value": "#e6f0f1",
+            "value": "#C9E9FF",
             "type": "color"
           },
           "hover": {
@@ -324,7 +324,7 @@
       "filled": {
         "active": {
           "standard": {
-            "value": "#e07a5f",
+            "value": "#9e2a2b",
             "type": "color"
           },
           "hover": {
@@ -604,7 +604,7 @@
     },
     "side-bar": {
       "background": {
-        "value": "#3d405b",
+        "value": "#8f2d56",
         "type": "color"
       },
       "button": {
@@ -628,7 +628,7 @@
     },
     "cloud": {
       "stroke": {
-        "value": "#f1f5f9",
+        "value": "#cfd8e3",
         "type": "color"
       }
     }
