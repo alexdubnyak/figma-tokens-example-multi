@@ -114,5 +114,9 @@
   --theme-xs: 2;
   --theme-xl: 32;
   --theme-side-bar-background: #27303f;
+  --theme-side-bar-button-standard: #f1f5f900;
+  --theme-side-bar-button-hover: #ffffff;
+  --theme-side-bar-button-pressed: #f1f5f9;
+  --theme-side-bar-button-active: #ffffff;
   --input-focus: [object Object];
       }

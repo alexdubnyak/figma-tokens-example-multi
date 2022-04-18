@@ -536,6 +536,24 @@
       "background": {
         "value": "#27303f",
         "type": "color"
+      },
+      "button": {
+        "standard": {
+          "value": "#f1f5f900",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#f1f5f9",
+          "type": "color"
+        },
+        "active": {
+          "value": "#ffffff",
+          "type": "color"
+        }
       }
     }
   },
