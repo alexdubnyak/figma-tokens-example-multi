@@ -577,11 +577,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "#27303f",
+          "value": "#ffffff",
           "type": "color"
         },
         "pressed": {
-          "value": "#475569",
+          "value": "#f1f5f9",
           "type": "color"
         },
         "active": {
