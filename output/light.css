@@ -48,15 +48,15 @@
   --theme-tab-blank-active-standard: #27303f;
   --theme-tab-blank-active-hover: #475569;
   --theme-tab-blank-active-pressed: #27303f;
-  --theme-tab-blank-active-disabled: #97a6ba;
+  --theme-tab-blank-active-disabled: #f1f5f9;
   --theme-tab-blank-unactive-standard: #97a6ba;
   --theme-tab-blank-unactive-hover: #27303f;
   --theme-tab-blank-unactive-pressed: #97a6ba;
-  --theme-tab-blank-unactive-disabled: #97a6ba;
+  --theme-tab-blank-unactive-disabled: #f1f5f9;
   --theme-tab-filled-active-standard: #339eac;
   --theme-tab-filled-active-hover: #008697;
   --theme-tab-filled-active-pressed: #005e6a;
-  --theme-tab-filled-active-disabled: #97a6ba;
+  --theme-tab-filled-active-disabled: #f1f5f9;
   --theme-tab-filled-unactive-standard: #f1f5f9;
   --theme-tab-filled-unactive-hover: #e2e8f0;
   --theme-tab-filled-unactive-pressed: #cfd8e3;
