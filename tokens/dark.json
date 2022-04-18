@@ -633,10 +633,10 @@
     "focus": {
       "value": {
         "x": 0,
-        "y": 0,
-        "blur": 12,
+        "y": 3,
+        "blur": 3,
         "spread": 0,
-        "color": "#cfd8e3",
+        "color": "#475569",
         "type": "dropShadow"
       },
       "type": "boxShadow"
