@@ -1,6 +1,6 @@
 .light-theme {
           --theme-accent: #008697;
-  --theme-link-on-light-standard: #f17eb8;
+  --theme-link-on-light-standard: #008697;
   --theme-link-on-light-hover: #e74694;
   --theme-link-on-light-pressed: #bf125d;
   --theme-link-on-light-visited: #e74694;
