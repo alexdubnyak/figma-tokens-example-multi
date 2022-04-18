@@ -395,6 +395,10 @@
         "disabled": {
           "value": "#f1f5f9",
           "type": "color"
+        },
+        "active": {
+          "value": "#ffffff",
+          "type": "color"
         }
       },
       "stroke": {
