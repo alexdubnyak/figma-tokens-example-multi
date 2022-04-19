@@ -1,13 +1,13 @@
 {
   "theme": {
     "accent": {
-      "value": "#e07a5f",
+      "value": "#5ca4a9",
       "type": "color"
     },
     "link": {
       "on-light": {
         "standard": {
-          "value": "#e07a5f",
+          "value": "#5ca4a9",
           "type": "color"
         },
         "hover": {
@@ -53,7 +53,7 @@
     "collapse": {
       "text": {
         "standard": {
-          "value": "#e07a5f",
+          "value": "#5ca4a9",
           "type": "color"
         },
         "hover": {
@@ -178,7 +178,7 @@
       "background": {
         "primary": {
           "standard": {
-            "value": "#0496ff",
+            "value": "#5ca4a9",
             "type": "color"
           },
           "hover": {
@@ -196,7 +196,7 @@
         },
         "secondary": {
           "standard": {
-            "value": "#C9E9FF",
+            "value": "#E6E3D7",
             "type": "color"
           },
           "hover": {
@@ -324,7 +324,7 @@
       "filled": {
         "active": {
           "standard": {
-            "value": "#9e2a2b",
+            "value": "#5ca4a9",
             "type": "color"
           },
           "hover": {
@@ -401,7 +401,7 @@
     "input": {
       "background": {
         "standard": {
-          "value": "#f2f7f5",
+          "value": "#F5F4EF",
           "type": "color"
         },
         "hover": {
@@ -451,7 +451,7 @@
     "dropdown": {
       "background": {
         "standard": {
-          "value": "#f2f7f5",
+          "value": "#F5F4EF",
           "type": "color"
         },
         "hover": {
@@ -509,7 +509,7 @@
           "type": "color"
         },
         "checked": {
-          "value": "#e07a5f",
+          "value": "#5ca4a9",
           "type": "color"
         },
         "checked-hover": {
@@ -523,7 +523,7 @@
       },
       "stroke": {
         "standard": {
-          "value": "#e07a5f",
+          "value": "#5ca4a9",
           "type": "color"
         },
         "hover": {
@@ -559,7 +559,7 @@
           "type": "color"
         },
         "checked": {
-          "value": "#e07a5f",
+          "value": "#5ca4a9",
           "type": "color"
         },
         "checked-hover": {
@@ -573,7 +573,7 @@
       },
       "stroke": {
         "standard": {
-          "value": "#e07a5f",
+          "value": "#5ca4a9",
           "type": "color"
         },
         "hover": {

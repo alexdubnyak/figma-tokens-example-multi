@@ -1,6 +1,6 @@
 .palette-3-theme {
-          --theme-accent: #e07a5f;
-  --theme-link-on-light-standard: #e07a5f;
+          --theme-accent: #5ca4a9;
+  --theme-link-on-light-standard: #5ca4a9;
   --theme-link-on-light-hover: #e6957f;
   --theme-link-on-light-pressed: #b3624c;
   --theme-link-on-light-visited: #e6957f;
@@ -10,7 +10,7 @@
   --theme-link-on-dark-pressed: #1992a1;
   --theme-link-on-dark-visited: #80c3cb;
   --theme-link-on-dark-disabled: #97a6ba;
-  --theme-collapse-text-standard: #e07a5f;
+  --theme-collapse-text-standard: #5ca4a9;
   --theme-collapse-text-hover: #e6957f;
   --theme-collapse-text-pressed: #b3624c;
   --theme-collapse-text-disabled: #97a6ba;
@@ -36,11 +36,11 @@
   --theme-stroke-dark: #27303f;
   --theme-stroke-light: #cfd8e3;
   --theme-stroke-accent: #008697;
-  --theme-button-background-primary-standard: #0496ff;
+  --theme-button-background-primary-standard: #5ca4a9;
   --theme-button-background-primary-hover: #e6957f;
   --theme-button-background-primary-pressed: #b3624c;
   --theme-button-background-primary-disabled: #f1f5f9;
-  --theme-button-background-secondary-standard: #C9E9FF;
+  --theme-button-background-secondary-standard: #E6E3D7;
   --theme-button-background-secondary-hover: #b3d3d6;
   --theme-button-background-secondary-pressed: #66a7ad;
   --theme-button-background-secondary-disabled: #f1f5f9;
@@ -67,7 +67,7 @@
   --theme-tab-blank-unactive-hover: #27303f;
   --theme-tab-blank-unactive-pressed: #97a6ba;
   --theme-tab-blank-unactive-disabled: #f1f5f9;
-  --theme-tab-filled-active-standard: #9e2a2b;
+  --theme-tab-filled-active-standard: #5ca4a9;
   --theme-tab-filled-active-hover: #e6957f;
   --theme-tab-filled-active-pressed: #b3624c;
   --theme-tab-filled-active-disabled: #f1f5f9;
@@ -83,7 +83,7 @@
   --theme-tab-outlined-unactive-hover: #008697;
   --theme-tab-outlined-unactive-pressed: #05505c;
   --theme-tab-outlined-unactive-disabled: #97a6ba;
-  --theme-input-background-standard: #f2f7f5;
+  --theme-input-background-standard: #F5F4EF;
   --theme-input-background-hover: #d9e8e1;
   --theme-input-background-pressed: #c0d9cd;
   --theme-input-background-disabled: #f1f5f9;
@@ -94,7 +94,7 @@
   --theme-input-stroke-hover: #80c3cb;
   --theme-input-stroke-pressed: #4daab6;
   --theme-input-stroke-disabled: #e2e8f0;
-  --theme-dropdown-background-standard: #f2f7f5;
+  --theme-dropdown-background-standard: #F5F4EF;
   --theme-dropdown-background-hover: #d9e8e1;
   --theme-dropdown-background-pressed: #c0d9cd;
   --theme-dropdown-background-disabled: #f1f5f9;
@@ -107,10 +107,10 @@
   --theme-checkbox-background-hover: #f0bdaf;
   --theme-checkbox-background-pressed: #e9a28f;
   --theme-checkbox-background-disabled: #f1f5f9;
-  --theme-checkbox-background-checked: #e07a5f;
+  --theme-checkbox-background-checked: #5ca4a9;
   --theme-checkbox-background-checked-hover: #e6957f;
   --theme-checkbox-background-checked-disabled: #f1f5f9;
-  --theme-checkbox-stroke-standard: #e07a5f;
+  --theme-checkbox-stroke-standard: #5ca4a9;
   --theme-checkbox-stroke-hover: #e6957f;
   --theme-checkbox-stroke-pressed: #b3624c;
   --theme-checkbox-stroke-disabled: #e2e8f0;
@@ -118,10 +118,10 @@
   --theme-radiobutton-background-hover: #f0bdaf;
   --theme-radiobutton-background-pressed: #e9a28f;
   --theme-radiobutton-background-disabled: #f1f5f9;
-  --theme-radiobutton-background-checked: #e07a5f;
+  --theme-radiobutton-background-checked: #5ca4a9;
   --theme-radiobutton-background-checked-hover: #e6957f;
   --theme-radiobutton-background-checked-disabled: #f1f5f9;
-  --theme-radiobutton-stroke-standard: #e07a5f;
+  --theme-radiobutton-stroke-standard: #5ca4a9;
   --theme-radiobutton-stroke-hover: #e6957f;
   --theme-radiobutton-stroke-pressed: #b3624c;
   --theme-radiobutton-stroke-disabled: #f1f5f9;
