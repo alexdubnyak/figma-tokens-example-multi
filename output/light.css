@@ -141,7 +141,10 @@
   --theme-table-header-background-pressed: #27303f;
   --theme-table-header-background-disabled: #cfd8e3;
   --theme-table-header-divider: #e2e8f0;
-  --theme-table-item-background-standard: #f1f5f9;
+  --theme-table-item-background-light-standard: #ffffff;
+  --theme-table-item-background-light-active: #f1f5f9;
+  --theme-table-item-background-dark-standard: #f1f5f9;
+  --theme-table-item-background-dark-active: #e2e8f0;
   --theme-table-row-stroke-hover: #b3dbe0;
   --theme-table-row-stroke-active: #008697;
   --input-focus: [object Object];

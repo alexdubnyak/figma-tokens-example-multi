@@ -669,9 +669,25 @@
       },
       "item": {
         "background": {
-          "standard": {
-            "value": "#f1f5f9",
-            "type": "color"
+          "light": {
+            "standard": {
+              "value": "#ffffff",
+              "type": "color"
+            },
+            "active": {
+              "value": "#f1f5f9",
+              "type": "color"
+            }
+          },
+          "dark": {
+            "standard": {
+              "value": "#f1f5f9",
+              "type": "color"
+            },
+            "active": {
+              "value": "#e2e8f0",
+              "type": "color"
+            }
           }
         }
       },
