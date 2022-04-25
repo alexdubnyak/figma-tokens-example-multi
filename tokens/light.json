@@ -646,7 +646,7 @@
       "header": {
         "background": {
           "standard": {
-            "value": "#fbfdfe",
+            "value": "#475569",
             "type": "color"
           },
           "hover": {
@@ -661,6 +661,10 @@
             "value": "#f1f5f9",
             "type": "color"
           }
+        },
+        "divider": {
+          "value": "#e2e8f0",
+          "type": "color"
         }
       }
     }
