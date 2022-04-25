@@ -646,19 +646,19 @@
       "header": {
         "background": {
           "standard": {
-            "value": "#000",
+            "value": "#fbfdfe",
             "type": "color"
           },
           "hover": {
-            "value": "#000",
+            "value": "#f1f5f9",
             "type": "color"
           },
           "pressed": {
-            "value": "#000",
+            "value": "#e2e8f0",
             "type": "color"
           },
           "disabled": {
-            "value": "#000",
+            "value": "#f1f5f9",
             "type": "color"
           }
         }
