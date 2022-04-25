@@ -668,21 +668,23 @@
         }
       },
       "item": {
-        "standard": {
-          "value": "#f1f5f9",
-          "type": "color"
-        },
-        "hover": {
-          "value": "#f1f5f9",
-          "type": "color"
-        },
-        "pressed": {
-          "value": "#f1f5f9",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "#f1f5f9",
-          "type": "color"
+        "background": {
+          "standard": {
+            "value": "#f1f5f9",
+            "type": "color"
+          }
+        }
+      },
+      "row": {
+        "stroke": {
+          "hover": {
+            "value": "#b3dbe0",
+            "type": "color"
+          },
+          "active": {
+            "value": "#008697",
+            "type": "color"
+          }
         }
       }
     }
