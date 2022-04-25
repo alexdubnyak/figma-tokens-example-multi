@@ -136,5 +136,9 @@
   --theme-side-bar-button-pressed: #f1f5f9;
   --theme-side-bar-button-active: #008697;
   --theme-cloud-stroke: #cfd8e3;
+  --theme-table-header-background-standard: #000;
+  --theme-table-header-background-hover: #000;
+  --theme-table-header-background-pressed: #000;
+  --theme-table-header-background-disabled: #000;
   --input-focus: [object Object];
       }

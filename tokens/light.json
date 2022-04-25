@@ -641,6 +641,28 @@
         "value": "#cfd8e3",
         "type": "color"
       }
+    },
+    "table": {
+      "header": {
+        "background": {
+          "standard": {
+            "value": "#000",
+            "type": "color"
+          },
+          "hover": {
+            "value": "#000",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "#000",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "#000",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "input": {
