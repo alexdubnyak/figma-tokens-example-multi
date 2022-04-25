@@ -137,9 +137,13 @@
   --theme-side-bar-button-active: #008697;
   --theme-cloud-stroke: #cfd8e3;
   --theme-table-header-background-standard: #475569;
-  --theme-table-header-background-hover: #f1f5f9;
-  --theme-table-header-background-pressed: #e2e8f0;
-  --theme-table-header-background-disabled: #f1f5f9;
+  --theme-table-header-background-hover: #64748b;
+  --theme-table-header-background-pressed: #27303f;
+  --theme-table-header-background-disabled: #cfd8e3;
   --theme-table-header-divider: #e2e8f0;
+  --theme-table-item-standard: #f1f5f9;
+  --theme-table-item-hover: #f1f5f9;
+  --theme-table-item-pressed: #f1f5f9;
+  --theme-table-item-disabled: #f1f5f9;
   --input-focus: [object Object];
       }

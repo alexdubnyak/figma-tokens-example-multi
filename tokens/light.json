@@ -650,20 +650,38 @@
             "type": "color"
           },
           "hover": {
-            "value": "#f1f5f9",
+            "value": "#64748b",
             "type": "color"
           },
           "pressed": {
-            "value": "#e2e8f0",
+            "value": "#27303f",
             "type": "color"
           },
           "disabled": {
-            "value": "#f1f5f9",
+            "value": "#cfd8e3",
             "type": "color"
           }
         },
         "divider": {
           "value": "#e2e8f0",
+          "type": "color"
+        }
+      },
+      "item": {
+        "standard": {
+          "value": "#f1f5f9",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#f1f5f9",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#f1f5f9",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#f1f5f9",
           "type": "color"
         }
       }
