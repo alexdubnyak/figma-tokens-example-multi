@@ -148,4 +148,6 @@
   --theme-table-row-stroke-hover: #b3dbe0;
   --theme-table-row-stroke-active: #008697;
   --input-focus: [object Object];
+  --table-header-s: 10;
+  --table-header-m: 14;
       }

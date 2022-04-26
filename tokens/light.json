@@ -717,5 +717,17 @@
       },
       "type": "boxShadow"
     }
+  },
+  "table": {
+    "header": {
+      "s": {
+        "value": 10,
+        "type": "spacing"
+      },
+      "m": {
+        "value": 14,
+        "type": "spacing"
+      }
+    }
   }
 }
