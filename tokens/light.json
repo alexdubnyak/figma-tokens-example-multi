@@ -727,6 +727,20 @@
       "m": {
         "value": 14,
         "type": "spacing"
+      },
+      "width": {
+        "value": 40,
+        "type": "other"
+      },
+      "height": {
+        "value": 45,
+        "type": "sizing"
+      }
+    },
+    "item": {
+      "height": {
+        "value": 45,
+        "type": "sizing"
       }
     }
   }

@@ -150,4 +150,7 @@
   --input-focus: [object Object];
   --table-header-s: 10;
   --table-header-m: 14;
+  --table-header-width: 40;
+  --table-header-height: 45;
+  --table-item-height: 45;
       }
