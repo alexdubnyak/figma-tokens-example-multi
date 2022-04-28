@@ -658,13 +658,33 @@
             "type": "color"
           },
           "disabled": {
-            "value": "#cfd8e3",
+            "value": "#f1f5f9",
             "type": "color"
           }
         },
         "divider": {
           "value": "#e2e8f0",
           "type": "color"
+        },
+        "button": {
+          "background": {
+            "standard": {
+              "value": "#000",
+              "type": "color"
+            },
+            "hover": {
+              "value": "#000",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "#000",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "#000",
+              "type": "color"
+            }
+          }
         }
       },
       "item": {
