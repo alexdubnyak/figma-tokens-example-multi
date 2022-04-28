@@ -144,7 +144,7 @@
   --theme-table-header-button-background-standard: #e2e8f0;
   --theme-table-header-button-background-hover: #97a6ba;
   --theme-table-header-button-background-pressed: #64748b;
-  --theme-table-header-button-background-disabled: #000;
+  --theme-table-header-button-background-disabled:  #e2e8f01a;
   --theme-table-item-background-light-standard: #ffffff;
   --theme-table-item-background-light-active: #f1f5f9;
   --theme-table-item-background-dark-standard: #f1f5f9;

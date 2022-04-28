@@ -681,7 +681,7 @@
               "type": "color"
             },
             "disabled": {
-              "value": "#000",
+              "value": " #e2e8f01a",
               "type": "color"
             }
           }
