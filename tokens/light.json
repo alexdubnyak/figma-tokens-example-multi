@@ -646,15 +646,15 @@
       "header": {
         "background": {
           "standard": {
-            "value": "#cfd8e3",
+            "value": "#e2e8f0",
             "type": "color"
           },
           "hover": {
-            "value": "#64748b",
+            "value": "#cfd8e3",
             "type": "color"
           },
           "pressed": {
-            "value": "#27303f",
+            "value": "#97a6ba",
             "type": "color"
           },
           "disabled": {
