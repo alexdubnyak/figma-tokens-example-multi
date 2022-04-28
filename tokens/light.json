@@ -669,15 +669,15 @@
         "button": {
           "background": {
             "standard": {
-              "value": "#000",
+              "value": "#e2e8f0",
               "type": "color"
             },
             "hover": {
-              "value": "#000",
+              "value": "#97a6ba",
               "type": "color"
             },
             "pressed": {
-              "value": "#000",
+              "value": "#64748b",
               "type": "color"
             },
             "disabled": {

@@ -141,9 +141,9 @@
   --theme-table-header-background-pressed: #97a6ba;
   --theme-table-header-background-disabled: #f1f5f9;
   --theme-table-header-divider: #e2e8f0;
-  --theme-table-header-button-background-standard: #000;
-  --theme-table-header-button-background-hover: #000;
-  --theme-table-header-button-background-pressed: #000;
+  --theme-table-header-button-background-standard: #e2e8f0;
+  --theme-table-header-button-background-hover: #97a6ba;
+  --theme-table-header-button-background-pressed: #64748b;
   --theme-table-header-button-background-disabled: #000;
   --theme-table-item-background-light-standard: #ffffff;
   --theme-table-item-background-light-active: #f1f5f9;
