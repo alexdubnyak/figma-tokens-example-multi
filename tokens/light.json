@@ -669,7 +669,7 @@
         "button": {
           "background": {
             "standard": {
-              "value": "#e2e8f0",
+              "value": "#e2e8f000",
               "type": "color"
             },
             "hover": {
