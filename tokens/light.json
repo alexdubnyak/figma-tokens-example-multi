@@ -721,6 +721,10 @@
             "value": "#008697",
             "type": "color"
           }
+        },
+        "divider": {
+          "value": "#e2e8f0",
+          "type": "color"
         }
       },
       "icon": {
