@@ -223,6 +223,10 @@
         "value": "#e2e8f0",
         "type": "color"
       },
+      "250": {
+        "value": "#c6ced9",
+        "type": "color"
+      },
       "300": {
         "value": "#cfd8e3",
         "type": "color"
