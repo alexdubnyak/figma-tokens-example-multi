@@ -734,6 +734,16 @@
             "type": "color"
           }
         }
+      },
+      "bage": {
+        "analytics": {
+          "value": "#5850ec",
+          "type": "color"
+        },
+        "urgent": {
+          "value": "#e02424",
+          "type": "color"
+        }
       }
     }
   },
