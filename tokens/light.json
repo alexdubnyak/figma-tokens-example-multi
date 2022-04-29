@@ -743,6 +743,22 @@
         "urgent": {
           "value": "#e02424",
           "type": "color"
+        },
+        "report": {
+          "value": "#faca15",
+          "type": "color"
+        },
+        "corruption": {
+          "value": "#8022be",
+          "type": "color"
+        },
+        "drugs": {
+          "value": "#f72585",
+          "type": "color"
+        },
+        "weapon": {
+          "value": "#e07a5f",
+          "type": "color"
         }
       }
     }
