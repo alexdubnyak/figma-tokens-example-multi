@@ -722,6 +722,18 @@
             "type": "color"
           }
         }
+      },
+      "icon": {
+        "color": {
+          "male": {
+            "value": "#3f83f8",
+            "type": "color"
+          },
+          "female": {
+            "value": "#f9519d",
+            "type": "color"
+          }
+        }
       }
     }
   },

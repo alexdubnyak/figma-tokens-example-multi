@@ -151,6 +151,8 @@
   --theme-table-item-background-dark-active: #e2e8f0;
   --theme-table-row-stroke-hover: #b3dbe0;
   --theme-table-row-stroke-active: #008697;
+  --theme-table-icon-color-male: #3f83f8;
+  --theme-table-icon-color-female: #f9519d;
   --input-focus: [object Object];
   --table-header-s: 10;
   --table-header-m: 14;
