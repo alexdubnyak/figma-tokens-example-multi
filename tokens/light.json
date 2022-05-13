@@ -21,15 +21,15 @@
           "type": "color"
         },
         "hover": {
-          "value": "#e74694",
+          "value": "#006b79",
           "type": "color"
         },
         "pressed": {
-          "value": "#bf125d",
+          "value": "#00505b",
           "type": "color"
         },
         "visited": {
-          "value": "#e74694",
+          "value": "#4daab6",
           "type": "color"
         },
         "disabled": {
