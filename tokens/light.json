@@ -1,5 +1,17 @@
 {
   "theme": {
+    "primary": {
+      "value": "#008697",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#97a6ba",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "#e2e8f0",
+      "type": "color"
+    },
     "accent": {
       "value": "#008697",
       "type": "color"
@@ -98,7 +110,7 @@
         "type": "color"
       },
       "gray": {
-        "value": "#475569",
+        "value": "#cfd8e3",
         "type": "color"
       }
     },
@@ -117,16 +129,16 @@
       }
     },
     "text": {
-      "on-dark": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "on-light": {
+      "primary": {
         "value": "#27303f",
         "type": "color"
       },
-      "default": {
-        "value": "#ffffff",
+      "secondary": {
+        "value": "#97a6ba",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#cfd8e3",
         "type": "color"
       }
     },
@@ -300,7 +312,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "#475569",
+            "value": "#cfd8e3",
             "type": "color"
           },
           "pressed": {
