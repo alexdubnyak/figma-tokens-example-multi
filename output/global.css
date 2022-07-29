@@ -456,9 +456,10 @@
   --colors-dark-salmon-190: #170f0c;
   --colors-dark-salmon-200: #19040d;
   --colors-dark-salmon-210: #19040d;
-  --basic: 2;
-  --font-families-base: Inter;
-  --font-families-headline: Montserrat;
+  --border-radius-base2: 2;
+  --border-radius-base4: 4;
+  --font-families-body: Inter;
+  --font-families-header: Montserrat;
   --line-heights-0: 120%;
   --font-weights-regular: Regular;
   --font-weights-medium: Medium;

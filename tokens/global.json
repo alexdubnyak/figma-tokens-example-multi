@@ -1891,16 +1891,22 @@
       }
     }
   },
-  "basic": {
-    "value": 2,
-    "type": "borderRadius"
+  "border-radius": {
+    "base2": {
+      "value": 2,
+      "type": "borderRadius"
+    },
+    "base4": {
+      "value": 4,
+      "type": "borderRadius"
+    }
   },
   "fontFamilies": {
-    "base": {
+    "body": {
       "value": "Inter",
       "type": "fontFamilies"
     },
-    "headline": {
+    "header": {
       "value": "Montserrat",
       "type": "fontFamilies"
     }
