@@ -1913,6 +1913,10 @@
     "montserrat": {
       "value": "Montserrat",
       "type": "fontFamilies"
+    },
+    "roboto": {
+      "value": "Roboto",
+      "type": "fontFamilies"
     }
   },
   "lineHeights": {
