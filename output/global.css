@@ -456,8 +456,9 @@
   --colors-dark-salmon-190: #170f0c;
   --colors-dark-salmon-200: #19040d;
   --colors-dark-salmon-210: #19040d;
-  --border-radius-base2: 2;
-  --border-radius-base4: 4;
+  --border-radius-base2: 2px;
+  --border-radius-base3: 3px;
+  --border-radius-base4: 4px;
   --font-families-inter: Inter;
   --font-families-montserrat: Montserrat;
   --line-heights-0: 120%;
@@ -479,7 +480,9 @@
   --size-base2: 2;
   --size-base3: 3;
   --size-base4: 4;
-  --base2: 2;
-  --base3: 3;
-  --base4: 4;
+  --space-base2: 2;
+  --space-base3: 3;
+  --space-base4: 4;
+  --border-width-base1: 1px;
+  --border-width-base2: 2px;
       }
