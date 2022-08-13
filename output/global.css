@@ -105,7 +105,15 @@
   --font-families-inter: Inter;
   --font-families-montserrat: Montserrat;
   --font-families-roboto: Roboto;
-  --line-heights-0: 120%;
+  --line-heights-120: 120%;
+  --line-heights-130: 130%;
+  --line-heights-140: 140%;
+  --line-heights-150: 150%;
+  --line-heights-160: 160%;
+  --line-heights-170: 170%;
+  --line-heights-180: 180%;
+  --line-heights-190: 190%;
+  --line-heights-200: 200%;
   --font-weights-regular: Regular;
   --font-weights-medium: Medium;
   --font-weights-semibold: SemiBold;
