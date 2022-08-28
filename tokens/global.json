@@ -1,5 +1,9 @@
 {
   "borderRadius": {
+    "base1": {
+      "value": 1,
+      "type": "borderRadius"
+    },
     "base2": {
       "value": 2,
       "type": "borderRadius"

@@ -1,5 +1,6 @@
 .global-theme {
-          --border-radius-base2: 2px;
+          --border-radius-base1: 1px;
+  --border-radius-base2: 2px;
   --border-radius-base3: 3px;
   --border-radius-base4: 4px;
   --font-families-inter: Inter;
