@@ -50,7 +50,7 @@ console.log('Build started...');
 
 // PROCESS THE DESIGN TOKENS FOR THE DIFFEREN BRANDS AND PLATFORMS
 
-['global', 'dark', 'light', 'palette-1', 'palette-2', 'palette-3' ].map(function (theme) {
+['global', 'tral-light ].map(function (theme) {
 
     console.log('\n==============================================');
     console.log(`\nProcessing: [${theme}]`);
