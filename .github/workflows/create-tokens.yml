@@ -14,7 +14,7 @@ jobs:
       # Transform Figma Tokens JSON to something Style Dictionary can read
       - run: npx token-transformer tokens.json tokens/global.json global
       # Create a light theme, exclude the global tokens
-      - run: npx token-transformer tokens.json tokens/tral-light.json global,theme global
+      - run: npx token-transformer tokens.json tokens/tral-light.json global,tral-light,theme global
       # Convert tokens according to Style Dictionary config
       - run: node build.js
       # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
