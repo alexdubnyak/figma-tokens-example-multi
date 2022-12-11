@@ -1926,6 +1926,26 @@
         ],
         "type": "boxShadow"
       }
+    },
+    "modal": {
+      "padding": {
+        "left": {
+          "value": 20,
+          "type": "spacing"
+        },
+        "right": {
+          "value": 20,
+          "type": "spacing"
+        },
+        "top": {
+          "value": 20,
+          "type": "spacing"
+        },
+        "bottom": {
+          "value": 20,
+          "type": "spacing"
+        }
+      }
     }
   }
 }

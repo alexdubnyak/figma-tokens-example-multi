@@ -382,4 +382,8 @@
   --theme-radiobutton-border-radius: 20;
   --theme-dropdown-background-disabled: #cbd6dc;
   --theme-shadow-1x: [object Object];
+  --theme-modal-padding-left: 20;
+  --theme-modal-padding-right: 20;
+  --theme-modal-padding-top: 20;
+  --theme-modal-padding-bottom: 20;
       }
