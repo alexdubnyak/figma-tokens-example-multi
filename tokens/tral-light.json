@@ -1638,164 +1638,299 @@
     "font": {
       "button": {
         "medium": {
-          "value": {
-            "fontFamily": "Montserrat",
-            "fontWeight": "Regular",
-            "lineHeight": "160%",
-            "fontSize": 14,
-            "letterSpacing": "0%",
-            "paragraphSpacing": 0,
-            "textCase": ""
+          "fontFamily": {
+            "value": "Montserrat"
           },
-          "type": "typography"
+          "fontWeight": {
+            "value": "Regular"
+          },
+          "lineHeight": {
+            "value": "160%"
+          },
+          "fontSize": {
+            "value": 14
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          },
+          "textCase": {
+            "value": ""
+          }
         },
         "small": {
-          "value": {
-            "fontFamily": "Montserrat",
-            "fontWeight": "Regular",
-            "lineHeight": "150%",
-            "fontSize": 12,
-            "letterSpacing": "0%",
-            "paragraphSpacing": 0
+          "fontFamily": {
+            "value": "Montserrat"
           },
-          "type": "typography"
+          "fontWeight": {
+            "value": "Regular"
+          },
+          "lineHeight": {
+            "value": "150%"
+          },
+          "fontSize": {
+            "value": 12
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
         },
         "big": {
-          "value": {
-            "fontFamily": "Montserrat",
-            "fontWeight": "Regular",
-            "lineHeight": "160%",
-            "fontSize": 16,
-            "letterSpacing": "0%",
-            "paragraphSpacing": 0
+          "fontFamily": {
+            "value": "Montserrat"
           },
-          "type": "typography"
+          "fontWeight": {
+            "value": "Regular"
+          },
+          "lineHeight": {
+            "value": "160%"
+          },
+          "fontSize": {
+            "value": 16
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
         }
       },
       "input": {
         "body": {
-          "value": {
-            "fontFamily": "Montserrat",
-            "fontWeight": "Regular",
-            "lineHeight": "160%",
-            "fontSize": 12,
-            "letterSpacing": "0%",
-            "paragraphSpacing": 0,
-            "textCase": ""
+          "fontFamily": {
+            "value": "Montserrat"
           },
-          "type": "typography"
+          "fontWeight": {
+            "value": "Regular"
+          },
+          "lineHeight": {
+            "value": "160%"
+          },
+          "fontSize": {
+            "value": 12
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          },
+          "textCase": {
+            "value": ""
+          }
         },
         "label": {
-          "value": {
-            "fontFamily": "Montserrat",
-            "fontWeight": "Regular",
-            "lineHeight": "auto",
-            "fontSize": 10,
-            "letterSpacing": "0%",
-            "paragraphSpacing": 0,
-            "textCase": ""
+          "fontFamily": {
+            "value": "Montserrat"
           },
-          "type": "typography"
+          "fontWeight": {
+            "value": "Regular"
+          },
+          "lineHeight": {
+            "value": "auto"
+          },
+          "fontSize": {
+            "value": 10
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          },
+          "textCase": {
+            "value": ""
+          }
         }
       },
       "body-12": {
-        "value": {
-          "fontFamily": "Montserrat",
-          "fontWeight": "Regular",
-          "lineHeight": "160%",
-          "fontSize": 12,
-          "letterSpacing": "0%",
-          "paragraphSpacing": 0,
-          "textDecoration": "",
-          "textCase": ""
+        "fontFamily": {
+          "value": "Montserrat"
         },
-        "type": "typography"
+        "fontWeight": {
+          "value": "Regular"
+        },
+        "lineHeight": {
+          "value": "160%"
+        },
+        "fontSize": {
+          "value": 12
+        },
+        "letterSpacing": {
+          "value": "0%"
+        },
+        "paragraphSpacing": {
+          "value": 0
+        },
+        "textDecoration": {
+          "value": ""
+        },
+        "textCase": {
+          "value": ""
+        }
       },
       "body-10": {
-        "value": {
-          "fontFamily": "Montserrat",
-          "fontWeight": "Regular",
-          "lineHeight": "160%",
-          "fontSize": 10,
-          "letterSpacing": "0%",
-          "paragraphSpacing": 0,
-          "textDecoration": "",
-          "textCase": ""
+        "fontFamily": {
+          "value": "Montserrat"
         },
-        "type": "typography"
+        "fontWeight": {
+          "value": "Regular"
+        },
+        "lineHeight": {
+          "value": "160%"
+        },
+        "fontSize": {
+          "value": 10
+        },
+        "letterSpacing": {
+          "value": "0%"
+        },
+        "paragraphSpacing": {
+          "value": 0
+        },
+        "textDecoration": {
+          "value": ""
+        },
+        "textCase": {
+          "value": ""
+        }
       },
       "body-14": {
-        "value": {
-          "fontFamily": "Montserrat",
-          "fontWeight": "Regular",
-          "lineHeight": "160%",
-          "fontSize": 14,
-          "letterSpacing": "0%",
-          "paragraphSpacing": 0,
-          "textDecoration": "",
-          "textCase": ""
+        "fontFamily": {
+          "value": "Montserrat"
         },
-        "type": "typography"
+        "fontWeight": {
+          "value": "Regular"
+        },
+        "lineHeight": {
+          "value": "160%"
+        },
+        "fontSize": {
+          "value": 14
+        },
+        "letterSpacing": {
+          "value": "0%"
+        },
+        "paragraphSpacing": {
+          "value": 0
+        },
+        "textDecoration": {
+          "value": ""
+        },
+        "textCase": {
+          "value": ""
+        }
       },
       "body-16": {
-        "value": {
-          "fontFamily": "Montserrat",
-          "fontWeight": "Regular",
-          "lineHeight": "160%",
-          "fontSize": 16,
-          "letterSpacing": "0%",
-          "paragraphSpacing": 0,
-          "textDecoration": "",
-          "textCase": ""
+        "fontFamily": {
+          "value": "Montserrat"
         },
-        "type": "typography"
+        "fontWeight": {
+          "value": "Regular"
+        },
+        "lineHeight": {
+          "value": "160%"
+        },
+        "fontSize": {
+          "value": 16
+        },
+        "letterSpacing": {
+          "value": "0%"
+        },
+        "paragraphSpacing": {
+          "value": 0
+        },
+        "textDecoration": {
+          "value": ""
+        },
+        "textCase": {
+          "value": ""
+        }
       },
       "table": {
         "header": {
-          "value": {
-            "fontFamily": "Montserrat",
-            "fontWeight": "Medium",
-            "lineHeight": 26,
-            "fontSize": 12,
-            "letterSpacing": "0%",
-            "paragraphSpacing": 0
+          "fontFamily": {
+            "value": "Montserrat"
           },
-          "type": "typography"
+          "fontWeight": {
+            "value": "Medium"
+          },
+          "lineHeight": {
+            "value": 26
+          },
+          "fontSize": {
+            "value": 12
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
         },
         "cell": {
           "normal": {
-            "value": {
-              "fontFamily": "Montserrat",
-              "fontWeight": "Regular",
-              "lineHeight": 26,
-              "fontSize": 12,
-              "letterSpacing": "0%",
-              "paragraphSpacing": 0
+            "fontFamily": {
+              "value": "Montserrat"
             },
-            "type": "typography"
+            "fontWeight": {
+              "value": "Regular"
+            },
+            "lineHeight": {
+              "value": 26
+            },
+            "fontSize": {
+              "value": 12
+            },
+            "letterSpacing": {
+              "value": "0%"
+            },
+            "paragraphSpacing": {
+              "value": 0
+            }
           },
           "small": {
-            "value": {
-              "fontFamily": "Montserrat",
-              "fontWeight": "Regular",
-              "lineHeight": 26,
-              "fontSize": 10,
-              "letterSpacing": "0%",
-              "paragraphSpacing": 0
+            "fontFamily": {
+              "value": "Montserrat"
             },
-            "type": "typography"
+            "fontWeight": {
+              "value": "Regular"
+            },
+            "lineHeight": {
+              "value": 26
+            },
+            "fontSize": {
+              "value": 10
+            },
+            "letterSpacing": {
+              "value": "0%"
+            },
+            "paragraphSpacing": {
+              "value": 0
+            }
           }
         }
       },
       "modal": {
         "header": {
-          "value": {
-            "fontFamily": "Montserrat",
-            "fontWeight": "SemiBold",
-            "lineHeight": "140%",
-            "fontSize": 18
+          "fontFamily": {
+            "value": "Montserrat"
           },
-          "type": "typography"
+          "fontWeight": {
+            "value": "SemiBold"
+          },
+          "lineHeight": {
+            "value": "140%"
+          },
+          "fontSize": {
+            "value": 18
+          }
         }
       }
     },
