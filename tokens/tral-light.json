@@ -1945,6 +1945,16 @@
           "value": 20,
           "type": "spacing"
         }
+      },
+      "gap": {
+        "value": 20,
+        "type": "spacing"
+      }
+    },
+    "modalname": {
+      "borderRadius": {
+        "value": 12,
+        "type": "borderRadius"
       }
     }
   }

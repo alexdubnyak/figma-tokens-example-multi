@@ -386,4 +386,6 @@
   --theme-modal-padding-right: 20;
   --theme-modal-padding-top: 20;
   --theme-modal-padding-bottom: 20;
+  --theme-modal-gap: 20;
+  --theme-modalname-border-radius: 12;
       }
