@@ -89,7 +89,7 @@
   },
   "fontSize": {
     "8px": {
-      "value": 8,
+      "value": "8px",
       "type": "fontSizes"
     },
     "9px": {
