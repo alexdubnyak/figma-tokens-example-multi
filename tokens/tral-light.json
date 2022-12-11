@@ -1953,7 +1953,7 @@
     },
     "modalname": {
       "borderRadius": {
-        "value": 12,
+        "value": 20,
         "type": "borderRadius"
       }
     }
