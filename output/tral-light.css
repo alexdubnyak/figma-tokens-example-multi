@@ -355,6 +355,7 @@
   --theme-font-table-header: [object Object];
   --theme-font-table-cell-normal: [object Object];
   --theme-font-table-cell-small: [object Object];
+  --theme-font-modal-header: [object Object];
   --theme-font-family-body: Montserrat;
   --theme-font-family-head: Montserrat;
   --theme-radiobutton-filled-background-standard: #e7ecef;

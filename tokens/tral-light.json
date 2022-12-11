@@ -1786,6 +1786,17 @@
             "type": "typography"
           }
         }
+      },
+      "modal": {
+        "header": {
+          "value": {
+            "fontFamily": "Montserrat",
+            "fontWeight": "SemiBold",
+            "lineHeight": "140%",
+            "fontSize": 18
+          },
+          "type": "typography"
+        }
       }
     },
     "fontFamily": {
