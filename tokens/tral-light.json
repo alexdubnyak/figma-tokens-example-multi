@@ -1960,9 +1960,7 @@
       "gap": {
         "value": 20,
         "type": "spacing"
-      }
-    },
-    "modalname": {
+      },
       "borderRadius": {
         "value": 20,
         "type": "borderRadius"
