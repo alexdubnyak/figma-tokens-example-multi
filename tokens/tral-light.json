@@ -2097,7 +2097,7 @@
         "type": "spacing"
       },
       "borderRadius": {
-        "value": 12,
+        "value": 8,
         "type": "borderRadius"
       }
     }
