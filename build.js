@@ -38,7 +38,7 @@ function getStyleDictionaryConfig(theme) {
             "format": "css/variables",
             "selector": `.${theme}-theme`,
             "options": {
-              "outputReferences": false
+              "outputReferences": true
              }
           }]
       }
