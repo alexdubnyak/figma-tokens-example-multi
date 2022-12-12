@@ -1923,7 +1923,7 @@
             "value": "Montserrat"
           },
           "fontWeight": {
-            "value": "SemiBold"
+            "value": 600
           },
           "lineHeight": {
             "value": "140%"
