@@ -427,7 +427,7 @@
   --theme-font-table-cell-small-letter-spacing: 0%;
   --theme-font-table-cell-small-paragraph-spacing: 0;
   --theme-font-modal-header-font-family: Montserrat;
-  --theme-font-modal-header-font-weight: SemiBold;
+  --theme-font-modal-header-font-weight: 600;
   --theme-font-modal-header-line-height: 140%;
   --theme-font-modal-header-font-size: 18;
   --theme-font-family-body: Montserrat;
@@ -462,5 +462,5 @@
   --theme-modal-padding-top: 20;
   --theme-modal-padding-bottom: 20;
   --theme-modal-gap: 20;
-  --theme-modal-border-radius: 12;
+  --theme-modal-border-radius: 6;
       }

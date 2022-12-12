@@ -1923,7 +1923,7 @@
             "value": "Montserrat"
           },
           "fontWeight": {
-            "value": "SemiBold"
+            "value": 600
           },
           "lineHeight": {
             "value": "140%"
@@ -2097,7 +2097,7 @@
         "type": "spacing"
       },
       "borderRadius": {
-        "value": 12,
+        "value": 6,
         "type": "borderRadius"
       }
     }
